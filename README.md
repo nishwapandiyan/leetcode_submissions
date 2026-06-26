@@ -30,6 +30,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 278 | [First Bad Version](./Binary%20Search/First%20Bad%20Version/) | Easy |
 | 374 | [Guess Number Higher or Lower](./Binary%20Search/Guess%20Number%20Higher%20or%20Lower/) | Easy |
 
 </details>
