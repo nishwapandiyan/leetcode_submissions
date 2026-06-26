@@ -30,6 +30,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 69 | [Sqrt(x)](./Math/Sqrt(x)/) | Easy |
+| 367 | [Valid Perfect Square](./Math/Valid%20Perfect%20Square/) | Easy |
 
 </details>
 
