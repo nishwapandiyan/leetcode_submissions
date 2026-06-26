@@ -12,6 +12,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 # 📚 Structured Problem Solving Topics
 
 
+### Array
+<details>
+<summary>Click to expand Array problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 744 | [Find Smallest Letter Greater Than Target](./Array/Find%20Smallest%20Letter%20Greater%20Than%20Target/) | Easy |
+
+</details>
+
+
 ### Binary Search
 <details>
 <summary>Click to expand Binary Search problems</summary>
