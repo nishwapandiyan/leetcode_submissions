@@ -1,13 +1,17 @@
-from collections import defaultdict
 class Solution:
     def subarraysWithKDistinct(self, nums: List[int], k: int) -> int:
-        freq = defaultdict(int)
-        l=0
-        invalid = 0
-        for r in range(len(nums)):
-            freq[nums[r]] += 1
-            while freq[nums[r]] == k:
-                l += 1
-            invalid += r - l + 1
-        total = len(n) * (len(n) + 1) // 2
-        return total - invalid    
+        cnt, res, l, m = [0] * (len(nums) + 1), 0, 0, 0
+        for n in nums:
+            cnt[n] += 1
+            if cnt[n] == 1:
+                k -= 1
+                if (k < 0):
+                    cnt[nums[m]] = 0
+                    m += 1
+                    l = m
+            if k <= 0:
+                while(cnt[nums[m]] > 1):
+                    cnt[nums[m]] -= 1
+                    m += 1
+                res += m - l + 1
+        return res
