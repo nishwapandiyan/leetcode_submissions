@@ -1,34 +1,44 @@
 # 59. Spiral Matrix II
 
-[![LeetCode Link](https://img.shields.io/badge/LeetCode-Problem_Link-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/problems/spiral-matrix-ii/)
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-eab308?style=flat-square)
+[![LeetCode Link](https://img.shields.io/badge/LeetCode-Problem_Link-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/problems/unique-paths-ii/)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=flat-square)
 
 ## Problem Statement
 
-<p>Given a positive integer <code>n</code>, generate an <code>n x n</code> <code>matrix</code> filled with elements from <code>1</code> to <code>n<sup>2</sup></code> in spiral order.</p>
+Given a positive integer n, generate an n x n matrix filled with elements from 1 to n2 in spiral order.
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2020/11/13/spiraln.jpg" style="width: 242px; height: 242px;" />
-<pre>
-<strong>Input:</strong> n = 3
-<strong>Output:</strong> [[1,2,3],[8,9,4],[7,6,5]]
-</pre>
+ 
+Example 1:
 
-<p><strong class="example">Example 2:</strong></p>
+Input: n = 3
+Output: [[1,2,3],[8,9,4],[7,6,5]]
 
-<pre>
-<strong>Input:</strong> n = 1
-<strong>Output:</strong> [[1]]
-</pre>
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+Example 2:
 
-<ul>
-	<li><code>1 &lt;= n &lt;= 20</code></li>
-</ul>
+Input: n = 1
+Output: [[1]]
 
+
+ 
+Constraints:
+
+
+	1 <= n <= 20
+
+## Examples
+
+```
+Input: n = 3
+Output: [[1,2,3],[8,9,4],[7,6,5]]
+
+Input: n = 1
+Output: [[1]]
+```
+
+## Constraints
+
+- 1 <= n <= 20
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*

@@ -20,6 +20,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 51 | [N-Queens](./Array/N-Queens/) | Hard |
 | 59 | [Spiral Matrix II](./Array/Spiral%20Matrix%20II/) | Medium |
+| 59 | [Spiral Matrix II](./Array/Spiral%20Matrix%20II/) | Easy |
 | 81 | [Search in Rotated Sorted Array II](./Array/Search%20in%20Rotated%20Sorted%20Array%20II/) | Medium |
 | 862 | [Shortest Subarray with Sum at Least K](./Array/Shortest%20Subarray%20with%20Sum%20at%20Least%20K/) | Hard |
 
