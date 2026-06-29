@@ -18,41 +18,44 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 33 | [Search in Rotated Sorted Array](./Array/Search%20in%20Rotated%20Sorted%20Array/) | Medium |
-| 34 | [Find First and Last Position of Element in Sorted Array](./Array/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/) | Medium |
-| 153 | [Find Minimum in Rotated Sorted Array](./Array/Find%20Minimum%20in%20Rotated%20Sorted%20Array/) | Medium |
-| 154 | [Find Minimum in Rotated Sorted Array II](./Array/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/) | Hard |
-| 744 | [Find Smallest Letter Greater Than Target](./Array/Find%20Smallest%20Letter%20Greater%20Than%20Target/) | Easy |
-| 852 | [Peak Index in a Mountain Array](./Array/Peak%20Index%20in%20a%20Mountain%20Array/) | Medium |
-| 875 | [Koko Eating Bananas](./Array/Koko%20Eating%20Bananas/) | Medium |
-| 980 | [Unique Paths III](./Array/Unique%20Paths%20III/) | Hard |
-| 992 | [Subarrays with K Different Integers](./Array/Subarrays%20with%20K%20Different%20Integers/) | Hard |
-| 1011 | [Capacity To Ship Packages Within D Days](./Array/Capacity%20To%20Ship%20Packages%20Within%20D%20Days/) | Medium |
-| 1723 | [Find Minimum Time to Finish All Jobs](./Array/Find%20Minimum%20Time%20to%20Finish%20All%20Jobs/) | Medium |
+| 51 | [N-Queens](./Array/N-Queens/) | Hard |
+| 59 | [Spiral Matrix II](./Array/Spiral%20Matrix%20II/) | Medium |
+| 59 | [Spiral Matrix II](./Array/Spiral%20Matrix%20II/) | Easy |
+| 81 | [Search in Rotated Sorted Array II](./Array/Search%20in%20Rotated%20Sorted%20Array%20II/) | Medium |
+| 862 | [Shortest Subarray with Sum at Least K](./Array/Shortest%20Subarray%20with%20Sum%20at%20Least%20K/) | Hard |
 
 </details>
 
 
-### Binary Search
+### Backtracking
 <details>
-<summary>Click to expand Binary Search problems</summary>
+<summary>Click to expand Backtracking problems</summary>
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 278 | [First Bad Version](./Binary%20Search/First%20Bad%20Version/) | Easy |
-| 374 | [Guess Number Higher or Lower](./Binary%20Search/Guess%20Number%20Higher%20or%20Lower/) | Easy |
+| 52 | [N-Queens II](./Backtracking/N-Queens%20II/) | Hard |
 
 </details>
 
 
-### Math
+### Database
 <details>
-<summary>Click to expand Math problems</summary>
+<summary>Click to expand Database problems</summary>
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 69 | [Sqrt(x)](./Math/Sqrt(x)/) | Easy |
-| 367 | [Valid Perfect Square](./Math/Valid%20Perfect%20Square/) | Easy |
+| 1757 | [Recyclable and Low Fat Products](./Database/Recyclable%20and%20Low%20Fat%20Products/) | Easy |
+
+</details>
+
+
+### Hash Table
+<details>
+<summary>Click to expand Hash Table problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 2516 | [Take K of Each Character From Left and Right](./Hash%20Table/Take%20K%20of%20Each%20Character%20From%20Left%20and%20Right/) | Medium |
 
 </details>
 
