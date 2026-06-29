@@ -28,7 +28,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 980 | [Unique Paths III](./Array/Unique%20Paths%20III/) | Hard |
 | 992 | [Subarrays with K Different Integers](./Array/Subarrays%20with%20K%20Different%20Integers/) | Hard |
 | 1011 | [Capacity To Ship Packages Within D Days](./Array/Capacity%20To%20Ship%20Packages%20Within%20D%20Days/) | Medium |
-| 1723 | [Find Minimum Time to Finish All Jobs](./Array/Find%20Minimum%20Time%20to%20Finish%20All%20Jobs/) | Hard |
+| 1723 | [Find Minimum Time to Finish All Jobs](./Array/Find%20Minimum%20Time%20to%20Finish%20All%20Jobs/) | Medium |
 
 </details>
 
