@@ -45,6 +45,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 620 | [Not Boring Movies](./Database/Not%20Boring%20Movies/) | Easy |
+| 1683 | [Invalid Tweets](./Database/Invalid%20Tweets/) | Easy |
 | 1757 | [Recyclable and Low Fat Products](./Database/Recyclable%20and%20Low%20Fat%20Products/) | Easy |
 
 </details>
