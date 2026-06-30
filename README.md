@@ -44,6 +44,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 175 | [Combine Two Tables](./Database/Combine%20Two%20Tables/) | Easy |
 | 584 | [Find Customer Referee](./Database/Find%20Customer%20Referee/) | Easy |
 | 595 | [Big Countries](./Database/Big%20Countries/) | Easy |
 | 620 | [Not Boring Movies](./Database/Not%20Boring%20Movies/) | Easy |
