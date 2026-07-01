@@ -51,6 +51,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 610 | [Triangle Judgement](./Database/Triangle%20Judgement/) | Easy |
 | 1527 | [Patients With a Condition](./Database/Patients%20With%20a%20Condition/) | Easy |
 
 </details>
