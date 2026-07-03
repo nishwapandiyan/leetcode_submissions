@@ -46,6 +46,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 175 | [Combine Two Tables](./Database/Combine%20Two%20Tables/) | Easy |
 | 176 | [Second Highest Salary](./Database/Second%20Highest%20Salary/) | Medium |
+| 177 | [Nth Highest Salary](./Database/Nth%20Highest%20Salary/) | Medium |
 | 181 | [Employees Earning More Than Their Managers](./Database/Employees%20Earning%20More%20Than%20Their%20Managers/) | Easy |
 | 182 | [Duplicate Emails](./Database/Duplicate%20Emails/) | Easy |
 | 183 | [Customers Who Never Order](./Database/Customers%20Who%20Never%20Order/) | Easy |
