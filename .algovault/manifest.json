@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-21T10:58:06.014Z",
+  "lastUpdated": "2026-07-21T10:58:18.547Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -19,20 +19,20 @@
         }
       }
     },
-    "second-highest-salary": {
-      "questionId": "176",
-      "title": "Second Highest Salary",
-      "titleSlug": "second-highest-salary",
+    "department-highest-salary": {
+      "questionId": "184",
+      "title": "Department Highest Salary",
+      "titleSlug": "department-highest-salary",
       "difficulty": "Medium",
       "tags": [
         "Database"
       ],
       "solutions": {
         "mysql": {
-          "syncedAt": 1784631486014,
-          "runtime": "464 ms",
+          "syncedAt": 1784631498547,
+          "runtime": "769 ms",
           "memory": "0B",
-          "githubPath": "Database/Second Highest Salary/"
+          "githubPath": "Database/Department Highest Salary/"
         }
       }
     }
