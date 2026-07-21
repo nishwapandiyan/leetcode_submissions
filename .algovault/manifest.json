@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-21T10:58:32.365Z",
+  "lastUpdated": "2026-07-21T10:58:44.374Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -19,20 +19,20 @@
         }
       }
     },
-    "combine-two-tables": {
-      "questionId": "175",
-      "title": "Combine Two Tables",
-      "titleSlug": "combine-two-tables",
+    "calculate-special-bonus": {
+      "questionId": "1873",
+      "title": "Calculate Special Bonus",
+      "titleSlug": "calculate-special-bonus",
       "difficulty": "Easy",
       "tags": [
         "Database"
       ],
       "solutions": {
         "mysql": {
-          "syncedAt": 1784631512365,
-          "runtime": "431 ms",
+          "syncedAt": 1784631524374,
+          "runtime": "605 ms",
           "memory": "0B",
-          "githubPath": "Database/Combine Two Tables/"
+          "githubPath": "Database/Calculate Special Bonus/"
         }
       }
     }
