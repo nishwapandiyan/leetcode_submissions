@@ -12,17 +12,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 # 📚 Structured Problem Solving Topics
 
 
-### Array
-<details>
-<summary>Click to expand Array problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 154 | [Find Minimum in Rotated Sorted Array II](./Array/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/) | Hard |
-
-</details>
-
-
 ### Database
 <details>
 <summary>Click to expand Database problems</summary>
@@ -31,6 +20,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 177 | [Nth Highest Salary](./Database/Nth%20Highest%20Salary/) | Medium |
 | 1873 | [Calculate Special Bonus](./Database/Calculate%20Special%20Bonus/) | Easy |
+
+</details>
+
+
+### Two Pointers
+<details>
+<summary>Click to expand Two Pointers problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 28 | [Find the Index of the First Occurrence in a String](./Two%20Pointers/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/) | Easy |
 
 </details>
 
