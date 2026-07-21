@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-21T10:58:18.547Z",
+  "lastUpdated": "2026-07-21T10:58:32.365Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -19,20 +19,20 @@
         }
       }
     },
-    "department-highest-salary": {
-      "questionId": "184",
-      "title": "Department Highest Salary",
-      "titleSlug": "department-highest-salary",
-      "difficulty": "Medium",
+    "combine-two-tables": {
+      "questionId": "175",
+      "title": "Combine Two Tables",
+      "titleSlug": "combine-two-tables",
+      "difficulty": "Easy",
       "tags": [
         "Database"
       ],
       "solutions": {
         "mysql": {
-          "syncedAt": 1784631498547,
-          "runtime": "769 ms",
+          "syncedAt": 1784631512365,
+          "runtime": "431 ms",
           "memory": "0B",
-          "githubPath": "Database/Department Highest Salary/"
+          "githubPath": "Database/Combine Two Tables/"
         }
       }
     }

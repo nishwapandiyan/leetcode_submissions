@@ -18,8 +18,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 175 | [Combine Two Tables](./Database/Combine%20Two%20Tables/) | Easy |
 | 177 | [Nth Highest Salary](./Database/Nth%20Highest%20Salary/) | Medium |
-| 184 | [Department Highest Salary](./Database/Department%20Highest%20Salary/) | Medium |
 
 </details>
 
