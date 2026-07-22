@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T13:42:43.717Z",
+  "lastUpdated": "2026-07-22T13:42:52.040Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -700,24 +700,24 @@
         }
       }
     },
-    "find-median-from-data-stream": {
-      "questionId": "295",
-      "title": "Find Median from Data Stream",
-      "titleSlug": "find-median-from-data-stream",
-      "difficulty": "Hard",
+    "wiggle-sort-ii": {
+      "questionId": "324",
+      "title": "Wiggle Sort II",
+      "titleSlug": "wiggle-sort-ii",
+      "difficulty": "Medium",
       "tags": [
-        "Two Pointers",
-        "Design",
+        "Array",
+        "Divide and Conquer",
+        "Greedy",
         "Sorting",
-        "Heap (Priority Queue)",
-        "Data Stream"
+        "Quickselect"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784727763717,
-          "runtime": "172 ms",
-          "memory": "63.8 MB",
-          "githubPath": "Two Pointers/Find Median from Data Stream/"
+          "syncedAt": 1784727772040,
+          "runtime": "6 ms",
+          "memory": "48.1 MB",
+          "githubPath": "Array/Wiggle Sort II/"
         }
       }
     }
