@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:41:15.405Z",
+  "lastUpdated": "2026-07-22T12:41:31.889Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -514,20 +514,21 @@
         }
       }
     },
-    "valid-number": {
-      "questionId": "65",
-      "title": "Valid Number",
-      "titleSlug": "valid-number",
-      "difficulty": "Hard",
+    "simplify-path": {
+      "questionId": "71",
+      "title": "Simplify Path",
+      "titleSlug": "simplify-path",
+      "difficulty": "Medium",
       "tags": [
-        "String"
+        "String",
+        "Stack"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784724075405,
-          "runtime": "1 ms",
-          "memory": "42.7 MB",
-          "githubPath": "String/Valid Number/"
+          "syncedAt": 1784724091889,
+          "runtime": "5 ms",
+          "memory": "43.8 MB",
+          "githubPath": "String/Simplify Path/"
         }
       }
     }
