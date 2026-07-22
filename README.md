@@ -53,17 +53,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
-### Dynamic Programming
-<details>
-<summary>Click to expand Dynamic Programming problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 95 | [Unique Binary Search Trees II](./Dynamic%20Programming/Unique%20Binary%20Search%20Trees%20II/) | Medium |
-
-</details>
-
-
 ### Hash Table
 <details>
 <summary>Click to expand Hash Table problems</summary>
@@ -118,6 +107,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 72 | [Edit Distance](./String/Edit%20Distance/) | Medium |
 | 91 | [Decode Ways](./String/Decode%20Ways/) | Medium |
 | 93 | [Restore IP Addresses](./String/Restore%20IP%20Addresses/) | Medium |
+| 97 | [Interleaving String](./String/Interleaving%20String/) | Medium |
 | 1678 | [Goal Parser Interpretation](./String/Goal%20Parser%20Interpretation/) | Easy |
 | 3110 | [Score of a String](./String/Score%20of%20a%20String/) | Easy |
 
