@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T13:43:10.689Z",
+  "lastUpdated": "2026-07-22T13:43:22.920Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -721,21 +721,22 @@
         }
       }
     },
-    "rotate-list": {
-      "questionId": "61",
-      "title": "Rotate List",
-      "titleSlug": "rotate-list",
+    "unique-paths": {
+      "questionId": "62",
+      "title": "Unique Paths",
+      "titleSlug": "unique-paths",
       "difficulty": "Medium",
       "tags": [
-        "Linked List",
-        "Two Pointers"
+        "Math",
+        "Dynamic Programming",
+        "Combinatorics"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784727790689,
+          "syncedAt": 1784727802920,
           "runtime": "0 ms",
-          "memory": "42.5 MB",
-          "githubPath": "Linked List/Rotate List/"
+          "memory": "40.5 MB",
+          "githubPath": "Math/Unique Paths/"
         }
       }
     }

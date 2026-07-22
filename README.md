@@ -68,17 +68,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
-### Linked List
-<details>
-<summary>Click to expand Linked List problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 61 | [Rotate List](./Linked%20List/Rotate%20List/) | Medium |
-
-</details>
-
-
 ### Math
 <details>
 <summary>Click to expand Math problems</summary>
@@ -87,6 +76,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 7 | [Reverse Integer](./Math/Reverse%20Integer/) | Medium |
 | 43 | [Multiply Strings](./Math/Multiply%20Strings/) | Medium |
+| 62 | [Unique Paths](./Math/Unique%20Paths/) | Medium |
 | 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
 | 415 | [Add Strings](./Math/Add%20Strings/) | Easy |
 
