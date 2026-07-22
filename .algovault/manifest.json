@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:38:24.910Z",
+  "lastUpdated": "2026-07-22T12:38:55.313Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -478,21 +478,21 @@
         }
       }
     },
-    "convert-date-to-binary": {
-      "questionId": "3280",
-      "title": "Convert Date to Binary",
-      "titleSlug": "convert-date-to-binary",
+    "reverse-degree-of-a-string": {
+      "questionId": "3498",
+      "title": "Reverse Degree of a String",
+      "titleSlug": "reverse-degree-of-a-string",
       "difficulty": "Easy",
       "tags": [
-        "Math",
-        "String"
+        "String",
+        "Simulation"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784723904910,
-          "runtime": "8 ms",
-          "memory": "43.4 MB",
-          "githubPath": "Math/Convert Date to Binary/"
+          "syncedAt": 1784723935313,
+          "runtime": "1 ms",
+          "memory": "42.8 MB",
+          "githubPath": "String/Reverse Degree of a String/"
         }
       }
     }
