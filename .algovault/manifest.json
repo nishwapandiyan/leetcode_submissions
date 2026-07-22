@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:28:33.857Z",
+  "lastUpdated": "2026-07-22T12:29:02.287Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -327,6 +327,24 @@
           "runtime": "2 ms",
           "memory": "45.1 MB",
           "githubPath": "Array/Jump Game II/"
+        }
+      }
+    },
+    "permutations": {
+      "questionId": "46",
+      "title": "Permutations",
+      "titleSlug": "permutations",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Backtracking"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1784723342287,
+          "runtime": "1 ms",
+          "memory": "45 MB",
+          "githubPath": "Array/Permutations/"
         }
       }
     }
