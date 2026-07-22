@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:41:01.478Z",
+  "lastUpdated": "2026-07-22T12:41:15.405Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -514,23 +514,20 @@
         }
       }
     },
-    "group-anagrams": {
-      "questionId": "49",
-      "title": "Group Anagrams",
-      "titleSlug": "group-anagrams",
-      "difficulty": "Medium",
+    "valid-number": {
+      "questionId": "65",
+      "title": "Valid Number",
+      "titleSlug": "valid-number",
+      "difficulty": "Hard",
       "tags": [
-        "Array",
-        "Hash Table",
-        "String",
-        "Sorting"
+        "String"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784724061478,
-          "runtime": "6 ms",
-          "memory": "47.9 MB",
-          "githubPath": "Array/Group Anagrams/"
+          "syncedAt": 1784724075405,
+          "runtime": "1 ms",
+          "memory": "42.7 MB",
+          "githubPath": "String/Valid Number/"
         }
       }
     }
