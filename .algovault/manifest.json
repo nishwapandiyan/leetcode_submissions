@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:14:54.515Z",
+  "lastUpdated": "2026-07-22T12:15:25.058Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -107,22 +107,21 @@
         }
       }
     },
-    "longest-common-prefix": {
-      "questionId": "14",
-      "title": "Longest Common Prefix",
-      "titleSlug": "longest-common-prefix",
+    "remove-element": {
+      "questionId": "27",
+      "title": "Remove Element",
+      "titleSlug": "remove-element",
       "difficulty": "Easy",
       "tags": [
         "Array",
-        "String",
-        "Trie"
+        "Two Pointers"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784722494515,
+          "syncedAt": 1784722525058,
           "runtime": "0 ms",
-          "memory": "41.6 MB",
-          "githubPath": "Array/Longest Common Prefix/"
+          "memory": "42 MB",
+          "githubPath": "Array/Remove Element/"
         }
       }
     }
