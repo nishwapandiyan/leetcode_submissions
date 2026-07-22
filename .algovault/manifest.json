@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T13:41:19.766Z",
+  "lastUpdated": "2026-07-22T13:41:34.690Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -680,22 +680,23 @@
         }
       }
     },
-    "sort-colors": {
-      "questionId": "75",
-      "title": "Sort Colors",
-      "titleSlug": "sort-colors",
+    "maximum-gap": {
+      "questionId": "164",
+      "title": "Maximum Gap",
+      "titleSlug": "maximum-gap",
       "difficulty": "Medium",
       "tags": [
         "Array",
-        "Two Pointers",
-        "Sorting"
+        "Sorting",
+        "Bucket Sort",
+        "Radix Sort"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784727679766,
-          "runtime": "0 ms",
-          "memory": "42 MB",
-          "githubPath": "Array/Sort Colors/"
+          "syncedAt": 1784727694690,
+          "runtime": "37 ms",
+          "memory": "61.4 MB",
+          "githubPath": "Array/Maximum Gap/"
         }
       }
     }
