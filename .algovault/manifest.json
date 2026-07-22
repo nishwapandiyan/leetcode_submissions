@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:15:58.006Z",
+  "lastUpdated": "2026-07-22T12:16:21.006Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -125,21 +125,21 @@
         }
       }
     },
-    "search-insert-position": {
-      "questionId": "35",
-      "title": "Search Insert Position",
-      "titleSlug": "search-insert-position",
+    "pascals-triangle": {
+      "questionId": "118",
+      "title": "Pascal's Triangle",
+      "titleSlug": "pascals-triangle",
       "difficulty": "Easy",
       "tags": [
         "Array",
-        "Binary Search"
+        "Dynamic Programming"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784722558006,
-          "runtime": "0 ms",
-          "memory": "42.5 MB",
-          "githubPath": "Array/Search Insert Position/"
+          "syncedAt": 1784722581006,
+          "runtime": "1 ms",
+          "memory": "41.9 MB",
+          "githubPath": "Array/Pascal's Triangle/"
         }
       }
     }
