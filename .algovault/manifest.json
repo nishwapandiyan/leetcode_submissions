@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T13:43:22.920Z",
+  "lastUpdated": "2026-07-22T13:43:51.683Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -721,22 +721,21 @@
         }
       }
     },
-    "unique-paths": {
-      "questionId": "62",
-      "title": "Unique Paths",
-      "titleSlug": "unique-paths",
+    "remove-duplicates-from-sorted-array-ii": {
+      "questionId": "80",
+      "title": "Remove Duplicates from Sorted Array II",
+      "titleSlug": "remove-duplicates-from-sorted-array-ii",
       "difficulty": "Medium",
       "tags": [
-        "Math",
-        "Dynamic Programming",
-        "Combinatorics"
+        "Array",
+        "Two Pointers"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784727802920,
+          "syncedAt": 1784727831683,
           "runtime": "0 ms",
-          "memory": "40.5 MB",
-          "githubPath": "Math/Unique Paths/"
+          "memory": "46.5 MB",
+          "githubPath": "Array/Remove Duplicates from Sorted Array II/"
         }
       }
     }
