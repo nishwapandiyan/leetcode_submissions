@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T13:34:21.805Z",
+  "lastUpdated": "2026-07-22T13:34:42.684Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -624,6 +624,27 @@
           "runtime": "1 ms",
           "memory": "42.4 MB",
           "githubPath": "Array/Final Value of Variable After Performing Operations/"
+        }
+      }
+    },
+    "count-the-number-of-consistent-strings": {
+      "questionId": "1684",
+      "title": "Count the Number of Consistent Strings",
+      "titleSlug": "count-the-number-of-consistent-strings",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Bit Manipulation",
+        "Counting"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1784727282684,
+          "runtime": "13 ms",
+          "memory": "45.9 MB",
+          "githubPath": "Array/Count the Number of Consistent Strings/"
         }
       }
     }
