@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T13:51:28.715Z",
+  "lastUpdated": "2026-07-22T13:51:37.627Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -831,23 +831,23 @@
         }
       }
     },
-    "recover-binary-search-tree": {
-      "questionId": "99",
-      "title": "Recover Binary Search Tree",
-      "titleSlug": "recover-binary-search-tree",
-      "difficulty": "Medium",
+    "same-tree": {
+      "questionId": "100",
+      "title": "Same Tree",
+      "titleSlug": "same-tree",
+      "difficulty": "Easy",
       "tags": [
         "Tree",
         "Depth-First Search",
-        "Binary Search Tree",
+        "Breadth-First Search",
         "Binary Tree"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784728288715,
-          "runtime": "1 ms",
-          "memory": "46.6 MB",
-          "githubPath": "Tree/Recover Binary Search Tree/"
+          "syncedAt": 1784728297627,
+          "runtime": "0 ms",
+          "memory": "42.9 MB",
+          "githubPath": "Tree/Same Tree/"
         }
       }
     }

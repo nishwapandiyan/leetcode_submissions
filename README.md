@@ -120,7 +120,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 99 | [Recover Binary Search Tree](./Tree/Recover%20Binary%20Search%20Tree/) | Medium |
+| 100 | [Same Tree](./Tree/Same%20Tree/) | Easy |
 
 </details>
 
