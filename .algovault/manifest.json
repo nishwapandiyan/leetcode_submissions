@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:17:03.441Z",
+  "lastUpdated": "2026-07-22T12:17:20.965Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -144,21 +144,22 @@
         }
       }
     },
-    "valid-parentheses": {
-      "questionId": "20",
-      "title": "Valid Parentheses",
-      "titleSlug": "valid-parentheses",
+    "nim-game": {
+      "questionId": "292",
+      "title": "Nim Game",
+      "titleSlug": "nim-game",
       "difficulty": "Easy",
       "tags": [
-        "String",
-        "Stack"
+        "Math",
+        "Brainteaser",
+        "Game Theory"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784722623441,
-          "runtime": "2 ms",
-          "memory": "41.8 MB",
-          "githubPath": "String/Valid Parentheses/"
+          "syncedAt": 1784722640965,
+          "runtime": "0 ms",
+          "memory": "40.6 MB",
+          "githubPath": "Math/Nim Game/"
         }
       }
     }
