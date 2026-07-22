@@ -90,7 +90,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 72 | [Edit Distance](./String/Edit%20Distance/) | Medium |
 | 1678 | [Goal Parser Interpretation](./String/Goal%20Parser%20Interpretation/) | Easy |
 | 3110 | [Score of a String](./String/Score%20of%20a%20String/) | Easy |
-| 3498 | [Reverse Degree of a String](./String/Reverse%20Degree%20of%20a%20String/) | Easy |
 
 </details>
 

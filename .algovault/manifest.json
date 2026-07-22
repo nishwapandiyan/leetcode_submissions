@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T13:38:05.787Z",
+  "lastUpdated": "2026-07-22T13:38:17.697Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -488,7 +488,7 @@
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784723958655,
+          "syncedAt": 1784727497697,
           "runtime": "0 ms",
           "memory": "41.9 MB",
           "githubPath": "String/Goal Parser Interpretation/"
@@ -641,24 +641,6 @@
           "runtime": "1 ms",
           "memory": "42.3 MB",
           "githubPath": "String/Score of a String/"
-        }
-      }
-    },
-    "reverse-degree-of-a-string": {
-      "questionId": "3498",
-      "title": "Reverse Degree of a String",
-      "titleSlug": "reverse-degree-of-a-string",
-      "difficulty": "Easy",
-      "tags": [
-        "String",
-        "Simulation"
-      ],
-      "solutions": {
-        "java": {
-          "syncedAt": 1784727485787,
-          "runtime": "1 ms",
-          "memory": "42.8 MB",
-          "githubPath": "String/Reverse Degree of a String/"
         }
       }
     }
