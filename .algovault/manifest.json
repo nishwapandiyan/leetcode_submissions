@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:16:30.813Z",
+  "lastUpdated": "2026-07-22T12:16:48.293Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -125,21 +125,22 @@
         }
       }
     },
-    "plus-one": {
-      "questionId": "66",
-      "title": "Plus One",
-      "titleSlug": "plus-one",
+    "roman-to-integer": {
+      "questionId": "13",
+      "title": "Roman to Integer",
+      "titleSlug": "roman-to-integer",
       "difficulty": "Easy",
       "tags": [
-        "Array",
-        "Math"
+        "Hash Table",
+        "Math",
+        "String"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784722590813,
-          "runtime": "0 ms",
-          "memory": "42.4 MB",
-          "githubPath": "Array/Plus One/"
+          "syncedAt": 1784722608293,
+          "runtime": "3 ms",
+          "memory": "44.6 MB",
+          "githubPath": "Hash Table/Roman to Integer/"
         }
       }
     }
