@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:19:28.233Z",
+  "lastUpdated": "2026-07-22T12:19:44.225Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -181,21 +181,25 @@
         }
       }
     },
-    "binary-search": {
-      "questionId": "704",
-      "title": "Binary Search",
-      "titleSlug": "binary-search",
+    "missing-number": {
+      "questionId": "268",
+      "title": "Missing Number",
+      "titleSlug": "missing-number",
       "difficulty": "Easy",
       "tags": [
         "Array",
-        "Binary Search"
+        "Hash Table",
+        "Math",
+        "Binary Search",
+        "Bit Manipulation",
+        "Sorting"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784722768233,
-          "runtime": "0 ms",
-          "memory": "46 MB",
-          "githubPath": "Array/Binary Search/"
+          "syncedAt": 1784722784225,
+          "runtime": "5 ms",
+          "memory": "45.7 MB",
+          "githubPath": "Array/Missing Number/"
         }
       }
     }
