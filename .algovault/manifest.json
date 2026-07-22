@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:30:13.583Z",
+  "lastUpdated": "2026-07-22T12:30:49.116Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -349,21 +349,21 @@
         }
       }
     },
-    "rotate-string": {
-      "questionId": "796",
-      "title": "Rotate String",
-      "titleSlug": "rotate-string",
+    "reverse-string-ii": {
+      "questionId": "541",
+      "title": "Reverse String II",
+      "titleSlug": "reverse-string-ii",
       "difficulty": "Easy",
       "tags": [
-        "String",
-        "String Matching"
+        "Two Pointers",
+        "String"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784723413583,
-          "runtime": "0 ms",
-          "memory": "41.2 MB",
-          "githubPath": "String/Rotate String/"
+          "syncedAt": 1784723449116,
+          "runtime": "1 ms",
+          "memory": "43.5 MB",
+          "githubPath": "Two Pointers/Reverse String II/"
         }
       }
     }
