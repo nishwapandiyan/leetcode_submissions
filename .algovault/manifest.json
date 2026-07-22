@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:19:44.225Z",
+  "lastUpdated": "2026-07-22T12:20:06.354Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -181,25 +181,20 @@
         }
       }
     },
-    "missing-number": {
-      "questionId": "268",
-      "title": "Missing Number",
-      "titleSlug": "missing-number",
+    "monotonic-array": {
+      "questionId": "896",
+      "title": "Monotonic Array",
+      "titleSlug": "monotonic-array",
       "difficulty": "Easy",
       "tags": [
-        "Array",
-        "Hash Table",
-        "Math",
-        "Binary Search",
-        "Bit Manipulation",
-        "Sorting"
+        "Array"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784722784225,
-          "runtime": "5 ms",
-          "memory": "45.7 MB",
-          "githubPath": "Array/Missing Number/"
+          "syncedAt": 1784722806354,
+          "runtime": "3 ms",
+          "memory": "59.5 MB",
+          "githubPath": "Array/Monotonic Array/"
         }
       }
     }
