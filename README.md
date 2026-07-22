@@ -80,7 +80,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
-| 3110 | [Score of a String](./String/Score%20of%20a%20String/) | Easy |
+| 1108 | [Defanging an IP Address](./String/Defanging%20an%20IP%20Address/) | Easy |
 
 </details>
 
