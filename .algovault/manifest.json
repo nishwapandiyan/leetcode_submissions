@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T04:41:41.653Z",
+  "lastUpdated": "2026-07-22T04:41:53.886Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -55,20 +55,21 @@
         }
       }
     },
-    "patients-with-a-condition": {
-      "questionId": "1527",
-      "title": "Patients With a Condition",
-      "titleSlug": "patients-with-a-condition",
-      "difficulty": "Easy",
+    "search-in-rotated-sorted-array-ii": {
+      "questionId": "81",
+      "title": "Search in Rotated Sorted Array II",
+      "titleSlug": "search-in-rotated-sorted-array-ii",
+      "difficulty": "Medium",
       "tags": [
-        "Database"
+        "Array",
+        "Binary Search"
       ],
       "solutions": {
-        "mysql": {
-          "syncedAt": 1784695301653,
-          "runtime": "473 ms",
-          "memory": "0B",
-          "githubPath": "Database/Patients With a Condition/"
+        "python3": {
+          "syncedAt": 1784695313886,
+          "runtime": "0 ms",
+          "memory": "19.7 MB",
+          "githubPath": "Array/Search in Rotated Sorted Array II/"
         }
       }
     }
