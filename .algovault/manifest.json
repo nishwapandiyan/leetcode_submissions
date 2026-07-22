@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T13:41:34.690Z",
+  "lastUpdated": "2026-07-22T13:41:52.030Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -680,23 +680,23 @@
         }
       }
     },
-    "maximum-gap": {
-      "questionId": "164",
-      "title": "Maximum Gap",
-      "titleSlug": "maximum-gap",
+    "largest-number": {
+      "questionId": "179",
+      "title": "Largest Number",
+      "titleSlug": "largest-number",
       "difficulty": "Medium",
       "tags": [
         "Array",
-        "Sorting",
-        "Bucket Sort",
-        "Radix Sort"
+        "String",
+        "Greedy",
+        "Sorting"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784727694690,
-          "runtime": "37 ms",
-          "memory": "61.4 MB",
-          "githubPath": "Array/Maximum Gap/"
+          "syncedAt": 1784727712030,
+          "runtime": "5 ms",
+          "memory": "43.6 MB",
+          "githubPath": "Array/Largest Number/"
         }
       }
     }
