@@ -19,6 +19,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
+| 15 | [3Sum](./Array/3Sum/) | Medium |
 | 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
 
 </details>

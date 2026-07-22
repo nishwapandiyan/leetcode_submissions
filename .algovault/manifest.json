@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:17:50.045Z",
+  "lastUpdated": "2026-07-22T12:18:28.022Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -160,6 +160,25 @@
           "runtime": "0 ms",
           "memory": "40.5 MB",
           "githubPath": "Hash Table/Happy Number/"
+        }
+      }
+    },
+    "3sum": {
+      "questionId": "15",
+      "title": "3Sum",
+      "titleSlug": "3sum",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1784722708022,
+          "runtime": "32 ms",
+          "memory": "51.5 MB",
+          "githubPath": "Array/3Sum/"
         }
       }
     }
