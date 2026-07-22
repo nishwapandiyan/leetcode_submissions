@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:18:28.022Z",
+  "lastUpdated": "2026-07-22T12:19:00.299Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -163,22 +163,21 @@
         }
       }
     },
-    "3sum": {
-      "questionId": "15",
-      "title": "3Sum",
-      "titleSlug": "3sum",
+    "product-of-array-except-self": {
+      "questionId": "238",
+      "title": "Product of Array Except Self",
+      "titleSlug": "product-of-array-except-self",
       "difficulty": "Medium",
       "tags": [
         "Array",
-        "Two Pointers",
-        "Sorting"
+        "Prefix Sum"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784722708022,
-          "runtime": "32 ms",
-          "memory": "51.5 MB",
-          "githubPath": "Array/3Sum/"
+          "syncedAt": 1784722740299,
+          "runtime": "2 ms",
+          "memory": "55.4 MB",
+          "githubPath": "Array/Product of Array Except Self/"
         }
       }
     }
