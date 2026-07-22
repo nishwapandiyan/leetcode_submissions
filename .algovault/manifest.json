@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:27:44.180Z",
+  "lastUpdated": "2026-07-22T12:28:00.711Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -308,6 +308,25 @@
           "runtime": "18 ms",
           "memory": "44.3 MB",
           "githubPath": "Array/4Sum/"
+        }
+      }
+    },
+    "generate-parentheses": {
+      "questionId": "22",
+      "title": "Generate Parentheses",
+      "titleSlug": "generate-parentheses",
+      "difficulty": "Medium",
+      "tags": [
+        "String",
+        "Dynamic Programming",
+        "Backtracking"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1784723280711,
+          "runtime": "2 ms",
+          "memory": "43.3 MB",
+          "githubPath": "String/Generate Parentheses/"
         }
       }
     }
