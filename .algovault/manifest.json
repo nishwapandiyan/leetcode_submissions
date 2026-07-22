@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:21:41.764Z",
+  "lastUpdated": "2026-07-22T12:23:26.317Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -232,6 +232,23 @@
           "runtime": "1 ms",
           "memory": "40.9 MB",
           "githubPath": "Math/Reverse Integer/"
+        }
+      }
+    },
+    "string-to-integer-atoi": {
+      "questionId": "8",
+      "title": "String to Integer (atoi)",
+      "titleSlug": "string-to-integer-atoi",
+      "difficulty": "Medium",
+      "tags": [
+        "String"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1784723006317,
+          "runtime": "1 ms",
+          "memory": "42.4 MB",
+          "githubPath": "String/String to Integer (atoi)/"
         }
       }
     }
