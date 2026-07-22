@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T13:29:52.465Z",
+  "lastUpdated": "2026-07-22T13:30:20.293Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -568,6 +568,24 @@
           "runtime": "15 ms",
           "memory": "45.4 MB",
           "githubPath": "Array/Longest Word in Dictionary/"
+        }
+      }
+    },
+    "remove-all-adjacent-duplicates-in-string": {
+      "questionId": "1047",
+      "title": "Remove All Adjacent Duplicates In String",
+      "titleSlug": "remove-all-adjacent-duplicates-in-string",
+      "difficulty": "Easy",
+      "tags": [
+        "String",
+        "Stack"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1784727020293,
+          "runtime": "11 ms",
+          "memory": "45.8 MB",
+          "githubPath": "String/Remove All Adjacent Duplicates In String/"
         }
       }
     }
