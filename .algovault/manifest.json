@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:37:38.939Z",
+  "lastUpdated": "2026-07-22T12:37:54.181Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -460,20 +460,21 @@
         }
       }
     },
-    "defanging-an-ip-address": {
-      "questionId": "1108",
-      "title": "Defanging an IP Address",
-      "titleSlug": "defanging-an-ip-address",
+    "jewels-and-stones": {
+      "questionId": "771",
+      "title": "Jewels and Stones",
+      "titleSlug": "jewels-and-stones",
       "difficulty": "Easy",
       "tags": [
+        "Hash Table",
         "String"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784723858939,
-          "runtime": "0 ms",
-          "memory": "41.5 MB",
-          "githubPath": "String/Defanging an IP Address/"
+          "syncedAt": 1784723874181,
+          "runtime": "1 ms",
+          "memory": "42.3 MB",
+          "githubPath": "Hash Table/Jewels and Stones/"
         }
       }
     }
