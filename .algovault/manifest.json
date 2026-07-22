@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T04:41:53.886Z",
+  "lastUpdated": "2026-07-22T04:42:08.975Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -55,21 +55,24 @@
         }
       }
     },
-    "search-in-rotated-sorted-array-ii": {
-      "questionId": "81",
-      "title": "Search in Rotated Sorted Array II",
-      "titleSlug": "search-in-rotated-sorted-array-ii",
-      "difficulty": "Medium",
+    "find-minimum-time-to-finish-all-jobs": {
+      "questionId": "1723",
+      "title": "Find Minimum Time to Finish All Jobs",
+      "titleSlug": "find-minimum-time-to-finish-all-jobs",
+      "difficulty": "Hard",
       "tags": [
         "Array",
-        "Binary Search"
+        "Dynamic Programming",
+        "Backtracking",
+        "Bit Manipulation",
+        "Bitmask"
       ],
       "solutions": {
         "python3": {
-          "syncedAt": 1784695313886,
-          "runtime": "0 ms",
+          "syncedAt": 1784695328975,
+          "runtime": "94 ms",
           "memory": "19.7 MB",
-          "githubPath": "Array/Search in Rotated Sorted Array II/"
+          "githubPath": "Array/Find Minimum Time to Finish All Jobs/"
         }
       }
     }
