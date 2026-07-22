@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:36:25.083Z",
+  "lastUpdated": "2026-07-22T12:36:37.996Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -443,23 +443,24 @@
         }
       }
     },
-    "number-of-good-pairs": {
-      "questionId": "1512",
-      "title": "Number of Good Pairs",
-      "titleSlug": "number-of-good-pairs",
+    "count-the-number-of-consistent-strings": {
+      "questionId": "1684",
+      "title": "Count the Number of Consistent Strings",
+      "titleSlug": "count-the-number-of-consistent-strings",
       "difficulty": "Easy",
       "tags": [
         "Array",
         "Hash Table",
-        "Math",
+        "String",
+        "Bit Manipulation",
         "Counting"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784723785083,
-          "runtime": "0 ms",
-          "memory": "41 MB",
-          "githubPath": "Array/Number of Good Pairs/"
+          "syncedAt": 1784723797996,
+          "runtime": "13 ms",
+          "memory": "45.9 MB",
+          "githubPath": "Array/Count the Number of Consistent Strings/"
         }
       }
     }
