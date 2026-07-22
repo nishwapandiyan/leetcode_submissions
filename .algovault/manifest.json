@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T13:41:52.030Z",
+  "lastUpdated": "2026-07-22T13:42:08.102Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -697,6 +697,27 @@
           "runtime": "5 ms",
           "memory": "43.6 MB",
           "githubPath": "Array/Largest Number/"
+        }
+      }
+    },
+    "kth-largest-element-in-an-array": {
+      "questionId": "215",
+      "title": "Kth Largest Element in an Array",
+      "titleSlug": "kth-largest-element-in-an-array",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Divide and Conquer",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Quickselect"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1784727728102,
+          "runtime": "62 ms",
+          "memory": "62.4 MB",
+          "githubPath": "Array/Kth Largest Element in an Array/"
         }
       }
     }
