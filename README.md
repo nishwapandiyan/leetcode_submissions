@@ -75,6 +75,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 43 | [Multiply Strings](./Math/Multiply%20Strings/) | Medium |
 | 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
 | 415 | [Add Strings](./Math/Add%20Strings/) | Easy |
+| 3280 | [Convert Date to Binary](./Math/Convert%20Date%20to%20Binary/) | Easy |
 
 </details>
 
