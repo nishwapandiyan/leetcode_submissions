@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T13:49:11.609Z",
+  "lastUpdated": "2026-07-22T13:49:31.206Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -810,6 +810,26 @@
           "runtime": "7 ms",
           "memory": "50.1 MB",
           "githubPath": "String/Restore IP Addresses/"
+        }
+      }
+    },
+    "binary-tree-inorder-traversal": {
+      "questionId": "94",
+      "title": "Binary Tree Inorder Traversal",
+      "titleSlug": "binary-tree-inorder-traversal",
+      "difficulty": "Easy",
+      "tags": [
+        "Stack",
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1784728171206,
+          "runtime": "0 ms",
+          "memory": "43.3 MB",
+          "githubPath": "Stack/Binary Tree Inorder Traversal/"
         }
       }
     }
