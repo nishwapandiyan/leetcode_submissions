@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:29:35.292Z",
+  "lastUpdated": "2026-07-22T12:29:51.542Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -330,22 +330,22 @@
         }
       }
     },
-    "rotate-image": {
-      "questionId": "48",
-      "title": "Rotate Image",
-      "titleSlug": "rotate-image",
+    "jump-game": {
+      "questionId": "55",
+      "title": "Jump Game",
+      "titleSlug": "jump-game",
       "difficulty": "Medium",
       "tags": [
         "Array",
-        "Math",
-        "Matrix"
+        "Dynamic Programming",
+        "Greedy"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784723375292,
-          "runtime": "0 ms",
-          "memory": "42.7 MB",
-          "githubPath": "Array/Rotate Image/"
+          "syncedAt": 1784723391542,
+          "runtime": "2 ms",
+          "memory": "45.9 MB",
+          "githubPath": "Array/Jump Game/"
         }
       }
     }
