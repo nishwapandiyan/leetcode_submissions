@@ -19,6 +19,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
+| 11 | [Container With Most Water](./Array/Container%20With%20Most%20Water/) | Medium |
 | 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
 | 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
@@ -69,7 +70,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
-| 8 | [String to Integer (atoi)](./String/String%20to%20Integer%20(atoi)/) | Medium |
 
 </details>
 
