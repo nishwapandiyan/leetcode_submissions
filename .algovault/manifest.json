@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T13:46:40.850Z",
+  "lastUpdated": "2026-07-22T13:46:50.044Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -757,22 +757,22 @@
         }
       }
     },
-    "longest-valid-parentheses": {
-      "questionId": "32",
-      "title": "Longest Valid Parentheses",
-      "titleSlug": "longest-valid-parentheses",
-      "difficulty": "Hard",
+    "valid-sudoku": {
+      "questionId": "36",
+      "title": "Valid Sudoku",
+      "titleSlug": "valid-sudoku",
+      "difficulty": "Medium",
       "tags": [
-        "String",
-        "Dynamic Programming",
-        "Stack"
+        "Array",
+        "Hash Table",
+        "Matrix"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784728000850,
-          "runtime": "4 ms",
-          "memory": "45.2 MB",
-          "githubPath": "String/Longest Valid Parentheses/"
+          "syncedAt": 1784728010044,
+          "runtime": "13 ms",
+          "memory": "45 MB",
+          "githubPath": "Array/Valid Sudoku/"
         }
       }
     }
