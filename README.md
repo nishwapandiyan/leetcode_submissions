@@ -26,7 +26,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 121 | [Best Time to Buy and Sell Stock](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy |
 | 179 | [Largest Number](./Array/Largest%20Number/) | Medium |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
-| 274 | [H-Index](./Array/H-Index/) | Medium |
 | 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
 | 720 | [Longest Word in Dictionary](./Array/Longest%20Word%20in%20Dictionary/) | Medium |
 | 1431 | [Kids With the Greatest Number of Candies](./Array/Kids%20With%20the%20Greatest%20Number%20of%20Candies/) | Easy |
@@ -106,6 +105,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 5 | [Longest Palindromic Substring](./Two%20Pointers/Longest%20Palindromic%20Substring/) | Medium |
 | 28 | [Find the Index of the First Occurrence in a String](./Two%20Pointers/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/) | Easy |
+| 295 | [Find Median from Data Stream](./Two%20Pointers/Find%20Median%20from%20Data%20Stream/) | Hard |
 | 541 | [Reverse String II](./Two%20Pointers/Reverse%20String%20II/) | Easy |
 
 </details>

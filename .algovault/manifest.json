@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T13:42:38.963Z",
+  "lastUpdated": "2026-07-22T13:42:43.717Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -700,22 +700,24 @@
         }
       }
     },
-    "h-index": {
-      "questionId": "274",
-      "title": "H-Index",
-      "titleSlug": "h-index",
-      "difficulty": "Medium",
+    "find-median-from-data-stream": {
+      "questionId": "295",
+      "title": "Find Median from Data Stream",
+      "titleSlug": "find-median-from-data-stream",
+      "difficulty": "Hard",
       "tags": [
-        "Array",
+        "Two Pointers",
+        "Design",
         "Sorting",
-        "Counting Sort"
+        "Heap (Priority Queue)",
+        "Data Stream"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784727758963,
-          "runtime": "2 ms",
-          "memory": "41.9 MB",
-          "githubPath": "Array/H-Index/"
+          "syncedAt": 1784727763717,
+          "runtime": "172 ms",
+          "memory": "63.8 MB",
+          "githubPath": "Two Pointers/Find Median from Data Stream/"
         }
       }
     }
