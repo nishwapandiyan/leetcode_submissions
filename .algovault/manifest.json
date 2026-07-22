@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T13:45:09.713Z",
+  "lastUpdated": "2026-07-22T13:45:27.246Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -739,20 +739,22 @@
         }
       }
     },
-    "remove-duplicates-from-sorted-list": {
-      "questionId": "83",
-      "title": "Remove Duplicates from Sorted List",
-      "titleSlug": "remove-duplicates-from-sorted-list",
-      "difficulty": "Easy",
+    "largest-rectangle-in-histogram": {
+      "questionId": "84",
+      "title": "Largest Rectangle in Histogram",
+      "titleSlug": "largest-rectangle-in-histogram",
+      "difficulty": "Hard",
       "tags": [
-        "Linked List"
+        "Array",
+        "Stack",
+        "Monotonic Stack"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784727909713,
-          "runtime": "0 ms",
-          "memory": "44.9 MB",
-          "githubPath": "Linked List/Remove Duplicates from Sorted List/"
+          "syncedAt": 1784727927246,
+          "runtime": "68 ms",
+          "memory": "57.7 MB",
+          "githubPath": "Array/Largest Rectangle in Histogram/"
         }
       }
     }
