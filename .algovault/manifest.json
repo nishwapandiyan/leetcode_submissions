@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T13:47:19.130Z",
+  "lastUpdated": "2026-07-22T13:47:30.341Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -777,21 +777,22 @@
         }
       }
     },
-    "powx-n": {
-      "questionId": "50",
-      "title": "Pow(x, n)",
-      "titleSlug": "powx-n",
+    "maximum-subarray": {
+      "questionId": "53",
+      "title": "Maximum Subarray",
+      "titleSlug": "maximum-subarray",
       "difficulty": "Medium",
       "tags": [
-        "Math",
-        "Recursion"
+        "Array",
+        "Divide and Conquer",
+        "Dynamic Programming"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784728039130,
-          "runtime": "0 ms",
-          "memory": "42.7 MB",
-          "githubPath": "Math/Pow(x, n)/"
+          "syncedAt": 1784728050341,
+          "runtime": "1 ms",
+          "memory": "56.8 MB",
+          "githubPath": "Array/Maximum Subarray/"
         }
       }
     }
