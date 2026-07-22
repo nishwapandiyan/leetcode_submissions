@@ -21,6 +21,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 | 18 | [4Sum](./Array/4Sum/) | Medium |
 | 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
+| 31 | [Next Permutation](./Array/Next%20Permutation/) | Medium |
 | 45 | [Jump Game II](./Array/Jump%20Game%20II/) | Medium |
 | 55 | [Jump Game](./Array/Jump%20Game/) | Medium |
 | 80 | [Remove Duplicates from Sorted Array II](./Array/Remove%20Duplicates%20from%20Sorted%20Array%20II/) | Medium |
@@ -87,7 +88,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 7 | [Reverse Integer](./Math/Reverse%20Integer/) | Medium |
-| 29 | [Divide Two Integers](./Math/Divide%20Two%20Integers/) | Medium |
 | 43 | [Multiply Strings](./Math/Multiply%20Strings/) | Medium |
 | 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
 | 415 | [Add Strings](./Math/Add%20Strings/) | Easy |
