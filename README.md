@@ -12,17 +12,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 # 📚 Structured Problem Solving Topics
 
 
-### Array
-<details>
-<summary>Click to expand Array problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 1723 | [Find Minimum Time to Finish All Jobs](./Array/Find%20Minimum%20Time%20to%20Finish%20All%20Jobs/) | Hard |
-
-</details>
-
-
 ### Database
 <details>
 <summary>Click to expand Database problems</summary>
@@ -31,6 +20,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 177 | [Nth Highest Salary](./Database/Nth%20Highest%20Salary/) | Medium |
 | 1873 | [Calculate Special Bonus](./Database/Calculate%20Special%20Bonus/) | Easy |
+
+</details>
+
+
+### String
+<details>
+<summary>Click to expand String problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
 
 </details>
 
