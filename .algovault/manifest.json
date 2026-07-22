@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T13:33:55.634Z",
+  "lastUpdated": "2026-07-22T13:34:10.990Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -608,25 +608,23 @@
         }
       }
     },
-    "sum-of-all-subset-xor-totals": {
-      "questionId": "1863",
-      "title": "Sum of All Subset XOR Totals",
-      "titleSlug": "sum-of-all-subset-xor-totals",
+    "number-of-good-pairs": {
+      "questionId": "1512",
+      "title": "Number of Good Pairs",
+      "titleSlug": "number-of-good-pairs",
       "difficulty": "Easy",
       "tags": [
         "Array",
+        "Hash Table",
         "Math",
-        "Backtracking",
-        "Bit Manipulation",
-        "Combinatorics",
-        "Enumeration"
+        "Counting"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784727235634,
+          "syncedAt": 1784727250990,
           "runtime": "0 ms",
-          "memory": "41.2 MB",
-          "githubPath": "Array/Sum of All Subset XOR Totals/"
+          "memory": "41 MB",
+          "githubPath": "Array/Number of Good Pairs/"
         }
       }
     }
