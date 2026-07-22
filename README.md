@@ -78,7 +78,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 86 | [Partition List](./Linked%20List/Partition%20List/) | Medium |
-| 92 | [Reverse Linked List II](./Linked%20List/Reverse%20Linked%20List%20II/) | Medium |
 
 </details>
 
@@ -107,6 +106,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 71 | [Simplify Path](./String/Simplify%20Path/) | Medium |
 | 72 | [Edit Distance](./String/Edit%20Distance/) | Medium |
 | 91 | [Decode Ways](./String/Decode%20Ways/) | Medium |
+| 93 | [Restore IP Addresses](./String/Restore%20IP%20Addresses/) | Medium |
 | 1678 | [Goal Parser Interpretation](./String/Goal%20Parser%20Interpretation/) | Easy |
 | 3110 | [Score of a String](./String/Score%20of%20a%20String/) | Easy |
 

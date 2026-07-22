@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T13:49:01.765Z",
+  "lastUpdated": "2026-07-22T13:49:11.609Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -795,20 +795,21 @@
         }
       }
     },
-    "reverse-linked-list-ii": {
-      "questionId": "92",
-      "title": "Reverse Linked List II",
-      "titleSlug": "reverse-linked-list-ii",
+    "restore-ip-addresses": {
+      "questionId": "93",
+      "title": "Restore IP Addresses",
+      "titleSlug": "restore-ip-addresses",
       "difficulty": "Medium",
       "tags": [
-        "Linked List"
+        "String",
+        "Backtracking"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784728141765,
-          "runtime": "0 ms",
-          "memory": "43.3 MB",
-          "githubPath": "Linked List/Reverse Linked List II/"
+          "syncedAt": 1784728151609,
+          "runtime": "7 ms",
+          "memory": "50.1 MB",
+          "githubPath": "String/Restore IP Addresses/"
         }
       }
     }
