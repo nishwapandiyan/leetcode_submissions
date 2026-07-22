@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:20:19.455Z",
+  "lastUpdated": "2026-07-22T12:20:38.484Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -196,6 +196,24 @@
           "runtime": "2 ms",
           "memory": "46.5 MB",
           "githubPath": "Array/Move Zeroes/"
+        }
+      }
+    },
+    "third-maximum-number": {
+      "questionId": "414",
+      "title": "Third Maximum Number",
+      "titleSlug": "third-maximum-number",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Sorting"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1784722838484,
+          "runtime": "3 ms",
+          "memory": "43.3 MB",
+          "githubPath": "Array/Third Maximum Number/"
         }
       }
     }
