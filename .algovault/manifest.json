@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:25:47.217Z",
+  "lastUpdated": "2026-07-22T12:26:07.939Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -272,21 +272,24 @@
         }
       }
     },
-    "single-number": {
-      "questionId": "136",
-      "title": "Single Number",
-      "titleSlug": "single-number",
+    "majority-element": {
+      "questionId": "169",
+      "title": "Majority Element",
+      "titleSlug": "majority-element",
       "difficulty": "Easy",
       "tags": [
         "Array",
-        "Bit Manipulation"
+        "Hash Table",
+        "Divide and Conquer",
+        "Sorting",
+        "Counting"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784723147217,
-          "runtime": "1 ms",
-          "memory": "46.5 MB",
-          "githubPath": "Array/Single Number/"
+          "syncedAt": 1784723167939,
+          "runtime": "2 ms",
+          "memory": "53.4 MB",
+          "githubPath": "Array/Majority Element/"
         }
       }
     }
