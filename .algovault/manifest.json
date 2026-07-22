@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:26:07.939Z",
+  "lastUpdated": "2026-07-22T12:26:27.688Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -272,24 +272,22 @@
         }
       }
     },
-    "majority-element": {
-      "questionId": "169",
-      "title": "Majority Element",
-      "titleSlug": "majority-element",
+    "contains-duplicate": {
+      "questionId": "217",
+      "title": "Contains Duplicate",
+      "titleSlug": "contains-duplicate",
       "difficulty": "Easy",
       "tags": [
         "Array",
         "Hash Table",
-        "Divide and Conquer",
-        "Sorting",
-        "Counting"
+        "Sorting"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784723167939,
-          "runtime": "2 ms",
-          "memory": "53.4 MB",
-          "githubPath": "Array/Majority Element/"
+          "syncedAt": 1784723187688,
+          "runtime": "14 ms",
+          "memory": "58.2 MB",
+          "githubPath": "Array/Contains Duplicate/"
         }
       }
     }
