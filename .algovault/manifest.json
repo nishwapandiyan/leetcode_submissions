@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:33:15.465Z",
+  "lastUpdated": "2026-07-22T12:33:31.477Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -405,23 +405,22 @@
         }
       }
     },
-    "remove-duplicate-letters": {
-      "questionId": "316",
-      "title": "Remove Duplicate Letters",
-      "titleSlug": "remove-duplicate-letters",
-      "difficulty": "Medium",
+    "valid-anagram": {
+      "questionId": "242",
+      "title": "Valid Anagram",
+      "titleSlug": "valid-anagram",
+      "difficulty": "Easy",
       "tags": [
+        "Hash Table",
         "String",
-        "Stack",
-        "Greedy",
-        "Monotonic Stack"
+        "Sorting"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784723595465,
-          "runtime": "1 ms",
-          "memory": "42 MB",
-          "githubPath": "String/Remove Duplicate Letters/"
+          "syncedAt": 1784723611477,
+          "runtime": "4 ms",
+          "memory": "45.1 MB",
+          "githubPath": "Hash Table/Valid Anagram/"
         }
       }
     }
