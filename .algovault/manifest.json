@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:32:45.851Z",
+  "lastUpdated": "2026-07-22T12:33:15.465Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -402,6 +402,26 @@
           "runtime": "0 ms",
           "memory": "41.8 MB",
           "githubPath": "Hash Table/Check if Number Has Equal Digit Count and Digit Value/"
+        }
+      }
+    },
+    "remove-duplicate-letters": {
+      "questionId": "316",
+      "title": "Remove Duplicate Letters",
+      "titleSlug": "remove-duplicate-letters",
+      "difficulty": "Medium",
+      "tags": [
+        "String",
+        "Stack",
+        "Greedy",
+        "Monotonic Stack"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1784723595465,
+          "runtime": "1 ms",
+          "memory": "42 MB",
+          "githubPath": "String/Remove Duplicate Letters/"
         }
       }
     }
