@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:34:51.111Z",
+  "lastUpdated": "2026-07-22T12:35:25.413Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -425,10 +425,10 @@
         }
       }
     },
-    "build-array-from-permutation": {
-      "questionId": "1920",
-      "title": "Build Array from Permutation",
-      "titleSlug": "build-array-from-permutation",
+    "concatenation-of-array": {
+      "questionId": "1929",
+      "title": "Concatenation of Array",
+      "titleSlug": "concatenation-of-array",
       "difficulty": "Easy",
       "tags": [
         "Array",
@@ -436,10 +436,10 @@
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784723691111,
+          "syncedAt": 1784723725413,
           "runtime": "1 ms",
           "memory": "45.7 MB",
-          "githubPath": "Array/Build Array from Permutation/"
+          "githubPath": "Array/Concatenation of Array/"
         }
       }
     }
