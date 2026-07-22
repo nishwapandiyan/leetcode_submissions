@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:16:23.181Z",
+  "lastUpdated": "2026-07-22T12:16:30.813Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -125,21 +125,21 @@
         }
       }
     },
-    "pascals-triangle": {
-      "questionId": "118",
-      "title": "Pascal's Triangle",
-      "titleSlug": "pascals-triangle",
+    "plus-one": {
+      "questionId": "66",
+      "title": "Plus One",
+      "titleSlug": "plus-one",
       "difficulty": "Easy",
       "tags": [
         "Array",
-        "Dynamic Programming"
+        "Math"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784722583181,
-          "runtime": "1 ms",
-          "memory": "41.9 MB",
-          "githubPath": "Array/Pascal's Triangle/"
+          "syncedAt": 1784722590813,
+          "runtime": "0 ms",
+          "memory": "42.4 MB",
+          "githubPath": "Array/Plus One/"
         }
       }
     }

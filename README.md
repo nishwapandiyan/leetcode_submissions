@@ -20,7 +20,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 | 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
-| 118 | [Pascal's Triangle](./Array/Pascal's%20Triangle/) | Easy |
+| 66 | [Plus One](./Array/Plus%20One/) | Easy |
 
 </details>
 
