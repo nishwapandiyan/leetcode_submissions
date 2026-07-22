@@ -54,7 +54,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 292 | [Nim Game](./Math/Nim%20Game/) | Easy |
+| 1342 | [Number of Steps to Reduce a Number to Zero](./Math/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/) | Easy |
 
 </details>
 
