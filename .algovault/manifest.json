@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:25:16.611Z",
+  "lastUpdated": "2026-07-22T12:25:33.719Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -254,24 +254,21 @@
         }
       }
     },
-    "convert-sorted-array-to-binary-search-tree": {
-      "questionId": "108",
-      "title": "Convert Sorted Array to Binary Search Tree",
-      "titleSlug": "convert-sorted-array-to-binary-search-tree",
+    "best-time-to-buy-and-sell-stock": {
+      "questionId": "121",
+      "title": "Best Time to Buy and Sell Stock",
+      "titleSlug": "best-time-to-buy-and-sell-stock",
       "difficulty": "Easy",
       "tags": [
         "Array",
-        "Divide and Conquer",
-        "Tree",
-        "Binary Search Tree",
-        "Binary Tree"
+        "Dynamic Programming"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784723116611,
-          "runtime": "0 ms",
-          "memory": "43.5 MB",
-          "githubPath": "Array/Convert Sorted Array to Binary Search Tree/"
+          "syncedAt": 1784723133719,
+          "runtime": "1 ms",
+          "memory": "61.5 MB",
+          "githubPath": "Array/Best Time to Buy and Sell Stock/"
         }
       }
     }
