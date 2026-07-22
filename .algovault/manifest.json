@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:20:06.354Z",
+  "lastUpdated": "2026-07-22T12:20:19.455Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -181,20 +181,21 @@
         }
       }
     },
-    "monotonic-array": {
-      "questionId": "896",
-      "title": "Monotonic Array",
-      "titleSlug": "monotonic-array",
+    "move-zeroes": {
+      "questionId": "283",
+      "title": "Move Zeroes",
+      "titleSlug": "move-zeroes",
       "difficulty": "Easy",
       "tags": [
-        "Array"
+        "Array",
+        "Two Pointers"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784722806354,
-          "runtime": "3 ms",
-          "memory": "59.5 MB",
-          "githubPath": "Array/Monotonic Array/"
+          "syncedAt": 1784722819455,
+          "runtime": "2 ms",
+          "memory": "46.5 MB",
+          "githubPath": "Array/Move Zeroes/"
         }
       }
     }
