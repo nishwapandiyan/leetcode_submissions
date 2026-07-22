@@ -21,7 +21,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 | 18 | [4Sum](./Array/4Sum/) | Medium |
 | 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
-| 36 | [Valid Sudoku](./Array/Valid%20Sudoku/) | Medium |
+| 37 | [Sudoku Solver](./Array/Sudoku%20Solver/) | Hard |
 | 45 | [Jump Game II](./Array/Jump%20Game%20II/) | Medium |
 | 55 | [Jump Game](./Array/Jump%20Game/) | Medium |
 | 80 | [Remove Duplicates from Sorted Array II](./Array/Remove%20Duplicates%20from%20Sorted%20Array%20II/) | Medium |
