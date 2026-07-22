@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T13:29:31.217Z",
+  "lastUpdated": "2026-07-22T13:29:52.465Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -550,21 +550,24 @@
         }
       }
     },
-    "reverse-words-in-a-string-iii": {
-      "questionId": "557",
-      "title": "Reverse Words in a String III",
-      "titleSlug": "reverse-words-in-a-string-iii",
-      "difficulty": "Easy",
+    "longest-word-in-dictionary": {
+      "questionId": "720",
+      "title": "Longest Word in Dictionary",
+      "titleSlug": "longest-word-in-dictionary",
+      "difficulty": "Medium",
       "tags": [
-        "Two Pointers",
-        "String"
+        "Array",
+        "Hash Table",
+        "String",
+        "Trie",
+        "Sorting"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784726971217,
-          "runtime": "3 ms",
-          "memory": "45.3 MB",
-          "githubPath": "Two Pointers/Reverse Words in a String III/"
+          "syncedAt": 1784726992465,
+          "runtime": "15 ms",
+          "memory": "45.4 MB",
+          "githubPath": "Array/Longest Word in Dictionary/"
         }
       }
     }
