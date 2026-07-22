@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:29:51.542Z",
+  "lastUpdated": "2026-07-22T12:30:01.807Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -346,6 +346,26 @@
           "runtime": "2 ms",
           "memory": "45.9 MB",
           "githubPath": "Array/Jump Game/"
+        }
+      }
+    },
+    "find-the-duplicate-number": {
+      "questionId": "287",
+      "title": "Find the Duplicate Number",
+      "titleSlug": "find-the-duplicate-number",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Bit Manipulation"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1784723401807,
+          "runtime": "23 ms",
+          "memory": "58.3 MB",
+          "githubPath": "Array/Find the Duplicate Number/"
         }
       }
     }
