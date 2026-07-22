@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T13:35:26.178Z",
+  "lastUpdated": "2026-07-22T13:35:43.338Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -641,6 +641,23 @@
           "runtime": "1 ms",
           "memory": "42.3 MB",
           "githubPath": "String/Score of a String/"
+        }
+      }
+    },
+    "defanging-an-ip-address": {
+      "questionId": "1108",
+      "title": "Defanging an IP Address",
+      "titleSlug": "defanging-an-ip-address",
+      "difficulty": "Easy",
+      "tags": [
+        "String"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1784727343338,
+          "runtime": "0 ms",
+          "memory": "41.5 MB",
+          "githubPath": "String/Defanging an IP Address/"
         }
       }
     }
