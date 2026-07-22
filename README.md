@@ -22,8 +22,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 18 | [4Sum](./Array/4Sum/) | Medium |
 | 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
 | 37 | [Sudoku Solver](./Array/Sudoku%20Solver/) | Hard |
+| 40 | [Combination Sum II](./Array/Combination%20Sum%20II/) | Medium |
 | 45 | [Jump Game II](./Array/Jump%20Game%20II/) | Medium |
-| 54 | [Spiral Matrix](./Array/Spiral%20Matrix/) | Medium |
 | 55 | [Jump Game](./Array/Jump%20Game/) | Medium |
 | 80 | [Remove Duplicates from Sorted Array II](./Array/Remove%20Duplicates%20from%20Sorted%20Array%20II/) | Medium |
 | 121 | [Best Time to Buy and Sell Stock](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy |
