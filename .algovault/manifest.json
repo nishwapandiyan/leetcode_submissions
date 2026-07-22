@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:35:25.413Z",
+  "lastUpdated": "2026-07-22T12:35:41.466Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -425,21 +425,21 @@
         }
       }
     },
-    "concatenation-of-array": {
-      "questionId": "1929",
-      "title": "Concatenation of Array",
-      "titleSlug": "concatenation-of-array",
+    "find-words-containing-character": {
+      "questionId": "2942",
+      "title": "Find Words Containing Character",
+      "titleSlug": "find-words-containing-character",
       "difficulty": "Easy",
       "tags": [
         "Array",
-        "Simulation"
+        "String"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784723725413,
+          "syncedAt": 1784723741466,
           "runtime": "1 ms",
-          "memory": "45.7 MB",
-          "githubPath": "Array/Concatenation of Array/"
+          "memory": "44.9 MB",
+          "githubPath": "Array/Find Words Containing Character/"
         }
       }
     }
