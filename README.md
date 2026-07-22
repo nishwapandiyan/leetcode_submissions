@@ -12,6 +12,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 # 📚 Structured Problem Solving Topics
 
 
+### Array
+<details>
+<summary>Click to expand Array problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 118 | [Pascal's Triangle](./Array/Pascal's%20Triangle/) | Easy |
+
+</details>
+
+
 ### Database
 <details>
 <summary>Click to expand Database problems</summary>
