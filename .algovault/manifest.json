@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:31:24.592Z",
+  "lastUpdated": "2026-07-22T12:31:44.613Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -367,24 +367,21 @@
         }
       }
     },
-    "longest-word-in-dictionary": {
-      "questionId": "720",
-      "title": "Longest Word in Dictionary",
-      "titleSlug": "longest-word-in-dictionary",
-      "difficulty": "Medium",
+    "remove-all-adjacent-duplicates-in-string": {
+      "questionId": "1047",
+      "title": "Remove All Adjacent Duplicates In String",
+      "titleSlug": "remove-all-adjacent-duplicates-in-string",
+      "difficulty": "Easy",
       "tags": [
-        "Array",
-        "Hash Table",
         "String",
-        "Trie",
-        "Sorting"
+        "Stack"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784723484592,
-          "runtime": "15 ms",
-          "memory": "45.4 MB",
-          "githubPath": "Array/Longest Word in Dictionary/"
+          "syncedAt": 1784723504613,
+          "runtime": "11 ms",
+          "memory": "45.8 MB",
+          "githubPath": "String/Remove All Adjacent Duplicates In String/"
         }
       }
     }
