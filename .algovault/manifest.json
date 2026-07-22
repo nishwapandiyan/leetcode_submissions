@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:24:06.553Z",
+  "lastUpdated": "2026-07-22T12:24:21.723Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -235,22 +235,22 @@
         }
       }
     },
-    "integer-to-roman": {
-      "questionId": "12",
-      "title": "Integer to Roman",
-      "titleSlug": "integer-to-roman",
+    "letter-combinations-of-a-phone-number": {
+      "questionId": "17",
+      "title": "Letter Combinations of a Phone Number",
+      "titleSlug": "letter-combinations-of-a-phone-number",
       "difficulty": "Medium",
       "tags": [
         "Hash Table",
-        "Math",
-        "String"
+        "String",
+        "Backtracking"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784723046553,
-          "runtime": "3 ms",
-          "memory": "44.5 MB",
-          "githubPath": "Hash Table/Integer to Roman/"
+          "syncedAt": 1784723061723,
+          "runtime": "0 ms",
+          "memory": "42.4 MB",
+          "githubPath": "Hash Table/Letter Combinations of a Phone Number/"
         }
       }
     }
