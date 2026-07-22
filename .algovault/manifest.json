@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:21:18.540Z",
+  "lastUpdated": "2026-07-22T12:21:41.764Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -215,6 +215,23 @@
           "runtime": "15 ms",
           "memory": "42.5 MB",
           "githubPath": "Two Pointers/Longest Palindromic Substring/"
+        }
+      }
+    },
+    "reverse-integer": {
+      "questionId": "7",
+      "title": "Reverse Integer",
+      "titleSlug": "reverse-integer",
+      "difficulty": "Medium",
+      "tags": [
+        "Math"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1784722901764,
+          "runtime": "1 ms",
+          "memory": "40.9 MB",
+          "githubPath": "Math/Reverse Integer/"
         }
       }
     }
