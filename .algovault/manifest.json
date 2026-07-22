@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T13:48:39.059Z",
+  "lastUpdated": "2026-07-22T13:49:01.765Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -795,24 +795,20 @@
         }
       }
     },
-    "trapping-rain-water": {
-      "questionId": "42",
-      "title": "Trapping Rain Water",
-      "titleSlug": "trapping-rain-water",
-      "difficulty": "Hard",
+    "reverse-linked-list-ii": {
+      "questionId": "92",
+      "title": "Reverse Linked List II",
+      "titleSlug": "reverse-linked-list-ii",
+      "difficulty": "Medium",
       "tags": [
-        "Array",
-        "Two Pointers",
-        "Dynamic Programming",
-        "Stack",
-        "Monotonic Stack"
+        "Linked List"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784728119059,
+          "syncedAt": 1784728141765,
           "runtime": "0 ms",
-          "memory": "46.7 MB",
-          "githubPath": "Array/Trapping Rain Water/"
+          "memory": "43.3 MB",
+          "githubPath": "Linked List/Reverse Linked List II/"
         }
       }
     }

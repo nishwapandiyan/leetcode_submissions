@@ -23,7 +23,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
 | 37 | [Sudoku Solver](./Array/Sudoku%20Solver/) | Hard |
 | 40 | [Combination Sum II](./Array/Combination%20Sum%20II/) | Medium |
-| 42 | [Trapping Rain Water](./Array/Trapping%20Rain%20Water/) | Hard |
 | 45 | [Jump Game II](./Array/Jump%20Game%20II/) | Medium |
 | 55 | [Jump Game](./Array/Jump%20Game/) | Medium |
 | 80 | [Remove Duplicates from Sorted Array II](./Array/Remove%20Duplicates%20from%20Sorted%20Array%20II/) | Medium |
@@ -79,6 +78,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 86 | [Partition List](./Linked%20List/Partition%20List/) | Medium |
+| 92 | [Reverse Linked List II](./Linked%20List/Reverse%20Linked%20List%20II/) | Medium |
 
 </details>
 
