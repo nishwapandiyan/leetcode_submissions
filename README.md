@@ -19,7 +19,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
-| 16 | [3Sum Closest](./Array/3Sum%20Closest/) | Medium |
+| 18 | [4Sum](./Array/4Sum/) | Medium |
 | 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
 | 121 | [Best Time to Buy and Sell Stock](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |

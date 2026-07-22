@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:27:23.751Z",
+  "lastUpdated": "2026-07-22T12:27:44.180Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -292,10 +292,10 @@
         }
       }
     },
-    "3sum-closest": {
-      "questionId": "16",
-      "title": "3Sum Closest",
-      "titleSlug": "3sum-closest",
+    "4sum": {
+      "questionId": "18",
+      "title": "4Sum",
+      "titleSlug": "4sum",
       "difficulty": "Medium",
       "tags": [
         "Array",
@@ -304,10 +304,10 @@
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784723243751,
-          "runtime": "15 ms",
-          "memory": "43.2 MB",
-          "githubPath": "Array/3Sum Closest/"
+          "syncedAt": 1784723264180,
+          "runtime": "18 ms",
+          "memory": "44.3 MB",
+          "githubPath": "Array/4Sum/"
         }
       }
     }
