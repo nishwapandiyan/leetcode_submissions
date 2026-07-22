@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:30:01.807Z",
+  "lastUpdated": "2026-07-22T12:30:13.583Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -349,23 +349,21 @@
         }
       }
     },
-    "find-the-duplicate-number": {
-      "questionId": "287",
-      "title": "Find the Duplicate Number",
-      "titleSlug": "find-the-duplicate-number",
-      "difficulty": "Medium",
+    "rotate-string": {
+      "questionId": "796",
+      "title": "Rotate String",
+      "titleSlug": "rotate-string",
+      "difficulty": "Easy",
       "tags": [
-        "Array",
-        "Two Pointers",
-        "Binary Search",
-        "Bit Manipulation"
+        "String",
+        "String Matching"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784723401807,
-          "runtime": "23 ms",
-          "memory": "58.3 MB",
-          "githubPath": "Array/Find the Duplicate Number/"
+          "syncedAt": 1784723413583,
+          "runtime": "0 ms",
+          "memory": "41.2 MB",
+          "githubPath": "String/Rotate String/"
         }
       }
     }
