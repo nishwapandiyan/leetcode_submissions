@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:28:17.265Z",
+  "lastUpdated": "2026-07-22T12:28:33.857Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -311,21 +311,22 @@
         }
       }
     },
-    "combination-sum": {
-      "questionId": "39",
-      "title": "Combination Sum",
-      "titleSlug": "combination-sum",
+    "jump-game-ii": {
+      "questionId": "45",
+      "title": "Jump Game II",
+      "titleSlug": "jump-game-ii",
       "difficulty": "Medium",
       "tags": [
         "Array",
-        "Backtracking"
+        "Dynamic Programming",
+        "Greedy"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784723297265,
-          "runtime": "1 ms",
-          "memory": "44.7 MB",
-          "githubPath": "Array/Combination Sum/"
+          "syncedAt": 1784723313857,
+          "runtime": "2 ms",
+          "memory": "45.1 MB",
+          "githubPath": "Array/Jump Game II/"
         }
       }
     }
