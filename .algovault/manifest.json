@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:29:02.287Z",
+  "lastUpdated": "2026-07-22T12:29:22.811Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -330,21 +330,22 @@
         }
       }
     },
-    "permutations": {
-      "questionId": "46",
-      "title": "Permutations",
-      "titleSlug": "permutations",
+    "permutations-ii": {
+      "questionId": "47",
+      "title": "Permutations II",
+      "titleSlug": "permutations-ii",
       "difficulty": "Medium",
       "tags": [
         "Array",
-        "Backtracking"
+        "Backtracking",
+        "Sorting"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784723342287,
+          "syncedAt": 1784723362811,
           "runtime": "1 ms",
-          "memory": "45 MB",
-          "githubPath": "Array/Permutations/"
+          "memory": "44.8 MB",
+          "githubPath": "Array/Permutations II/"
         }
       }
     }
