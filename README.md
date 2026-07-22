@@ -82,6 +82,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
+| 44 | [Wildcard Matching](./String/Wildcard%20Matching/) | Hard |
 | 1678 | [Goal Parser Interpretation](./String/Goal%20Parser%20Interpretation/) | Easy |
 
 </details>
