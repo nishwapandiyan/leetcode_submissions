@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:24:48.030Z",
+  "lastUpdated": "2026-07-22T12:25:16.611Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -254,21 +254,24 @@
         }
       }
     },
-    "pascals-triangle-ii": {
-      "questionId": "119",
-      "title": "Pascal's Triangle II",
-      "titleSlug": "pascals-triangle-ii",
+    "convert-sorted-array-to-binary-search-tree": {
+      "questionId": "108",
+      "title": "Convert Sorted Array to Binary Search Tree",
+      "titleSlug": "convert-sorted-array-to-binary-search-tree",
       "difficulty": "Easy",
       "tags": [
         "Array",
-        "Dynamic Programming"
+        "Divide and Conquer",
+        "Tree",
+        "Binary Search Tree",
+        "Binary Tree"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784723088030,
-          "runtime": "1 ms",
-          "memory": "41.5 MB",
-          "githubPath": "Array/Pascal's Triangle II/"
+          "syncedAt": 1784723116611,
+          "runtime": "0 ms",
+          "memory": "43.5 MB",
+          "githubPath": "Array/Convert Sorted Array to Binary Search Tree/"
         }
       }
     }
