@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T13:41:07.175Z",
+  "lastUpdated": "2026-07-22T13:41:19.766Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -680,21 +680,22 @@
         }
       }
     },
-    "merge-intervals": {
-      "questionId": "56",
-      "title": "Merge Intervals",
-      "titleSlug": "merge-intervals",
+    "sort-colors": {
+      "questionId": "75",
+      "title": "Sort Colors",
+      "titleSlug": "sort-colors",
       "difficulty": "Medium",
       "tags": [
         "Array",
+        "Two Pointers",
         "Sorting"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784727667175,
-          "runtime": "7 ms",
-          "memory": "46.9 MB",
-          "githubPath": "Array/Merge Intervals/"
+          "syncedAt": 1784727679766,
+          "runtime": "0 ms",
+          "memory": "42 MB",
+          "githubPath": "Array/Sort Colors/"
         }
       }
     }
