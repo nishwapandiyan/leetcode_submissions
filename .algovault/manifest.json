@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T13:49:31.206Z",
+  "lastUpdated": "2026-07-22T13:49:53.801Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -813,23 +813,24 @@
         }
       }
     },
-    "binary-tree-inorder-traversal": {
-      "questionId": "94",
-      "title": "Binary Tree Inorder Traversal",
-      "titleSlug": "binary-tree-inorder-traversal",
-      "difficulty": "Easy",
+    "unique-binary-search-trees-ii": {
+      "questionId": "95",
+      "title": "Unique Binary Search Trees II",
+      "titleSlug": "unique-binary-search-trees-ii",
+      "difficulty": "Medium",
       "tags": [
-        "Stack",
+        "Dynamic Programming",
+        "Backtracking",
         "Tree",
-        "Depth-First Search",
+        "Binary Search Tree",
         "Binary Tree"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784728171206,
-          "runtime": "0 ms",
-          "memory": "43.3 MB",
-          "githubPath": "Stack/Binary Tree Inorder Traversal/"
+          "syncedAt": 1784728193801,
+          "runtime": "1 ms",
+          "memory": "46.3 MB",
+          "githubPath": "Dynamic Programming/Unique Binary Search Trees II/"
         }
       }
     }

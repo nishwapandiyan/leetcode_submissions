@@ -53,6 +53,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Dynamic Programming
+<details>
+<summary>Click to expand Dynamic Programming problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 95 | [Unique Binary Search Trees II](./Dynamic%20Programming/Unique%20Binary%20Search%20Trees%20II/) | Medium |
+
+</details>
+
+
 ### Hash Table
 <details>
 <summary>Click to expand Hash Table problems</summary>
@@ -92,17 +103,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 43 | [Multiply Strings](./Math/Multiply%20Strings/) | Medium |
 | 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
 | 415 | [Add Strings](./Math/Add%20Strings/) | Easy |
-
-</details>
-
-
-### Stack
-<details>
-<summary>Click to expand Stack problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 94 | [Binary Tree Inorder Traversal](./Stack/Binary%20Tree%20Inorder%20Traversal/) | Easy |
 
 </details>
 
