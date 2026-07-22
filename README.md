@@ -70,6 +70,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 7 | [Reverse Integer](./Math/Reverse%20Integer/) | Medium |
 | 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
 | 415 | [Add Strings](./Math/Add%20Strings/) | Easy |
+| 3280 | [Convert Date to Binary](./Math/Convert%20Date%20to%20Binary/) | Easy |
 
 </details>
 

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:37:54.181Z",
+  "lastUpdated": "2026-07-22T12:38:24.910Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -475,6 +475,24 @@
           "runtime": "1 ms",
           "memory": "42.3 MB",
           "githubPath": "Hash Table/Jewels and Stones/"
+        }
+      }
+    },
+    "convert-date-to-binary": {
+      "questionId": "3280",
+      "title": "Convert Date to Binary",
+      "titleSlug": "convert-date-to-binary",
+      "difficulty": "Easy",
+      "tags": [
+        "Math",
+        "String"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1784723904910,
+          "runtime": "8 ms",
+          "memory": "43.4 MB",
+          "githubPath": "Math/Convert Date to Binary/"
         }
       }
     }
