@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T13:34:10.990Z",
+  "lastUpdated": "2026-07-22T13:34:21.805Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -608,23 +608,22 @@
         }
       }
     },
-    "number-of-good-pairs": {
-      "questionId": "1512",
-      "title": "Number of Good Pairs",
-      "titleSlug": "number-of-good-pairs",
+    "final-value-of-variable-after-performing-operations": {
+      "questionId": "2011",
+      "title": "Final Value of Variable After Performing Operations",
+      "titleSlug": "final-value-of-variable-after-performing-operations",
       "difficulty": "Easy",
       "tags": [
         "Array",
-        "Hash Table",
-        "Math",
-        "Counting"
+        "String",
+        "Simulation"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784727250990,
-          "runtime": "0 ms",
-          "memory": "41 MB",
-          "githubPath": "Array/Number of Good Pairs/"
+          "syncedAt": 1784727261805,
+          "runtime": "1 ms",
+          "memory": "42.4 MB",
+          "githubPath": "Array/Final Value of Variable After Performing Operations/"
         }
       }
     }
