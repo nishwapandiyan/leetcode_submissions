@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T13:42:08.102Z",
+  "lastUpdated": "2026-07-22T13:42:23.521Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -700,24 +700,27 @@
         }
       }
     },
-    "kth-largest-element-in-an-array": {
-      "questionId": "215",
-      "title": "Kth Largest Element in an Array",
-      "titleSlug": "kth-largest-element-in-an-array",
-      "difficulty": "Medium",
+    "the-skyline-problem": {
+      "questionId": "218",
+      "title": "The Skyline Problem",
+      "titleSlug": "the-skyline-problem",
+      "difficulty": "Hard",
       "tags": [
         "Array",
         "Divide and Conquer",
+        "Binary Indexed Tree",
+        "Segment Tree",
+        "Sweep Line",
         "Sorting",
         "Heap (Priority Queue)",
-        "Quickselect"
+        "Ordered Set"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784727728102,
-          "runtime": "62 ms",
-          "memory": "62.4 MB",
-          "githubPath": "Array/Kth Largest Element in an Array/"
+          "syncedAt": 1784727743521,
+          "runtime": "237 ms",
+          "memory": "51.5 MB",
+          "githubPath": "Array/The Skyline Problem/"
         }
       }
     }
