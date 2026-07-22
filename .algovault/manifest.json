@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:39:18.655Z",
+  "lastUpdated": "2026-07-22T12:39:36.634Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -492,6 +492,24 @@
           "runtime": "0 ms",
           "memory": "41.9 MB",
           "githubPath": "String/Goal Parser Interpretation/"
+        }
+      }
+    },
+    "permutation-difference-between-two-strings": {
+      "questionId": "3146",
+      "title": "Permutation Difference between Two Strings",
+      "titleSlug": "permutation-difference-between-two-strings",
+      "difficulty": "Easy",
+      "tags": [
+        "Hash Table",
+        "String"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1784723976634,
+          "runtime": "1 ms",
+          "memory": "42.7 MB",
+          "githubPath": "Hash Table/Permutation Difference between Two Strings/"
         }
       }
     }

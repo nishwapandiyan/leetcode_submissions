@@ -57,6 +57,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 387 | [First Unique Character in a String](./Hash%20Table/First%20Unique%20Character%20in%20a%20String/) | Easy |
 | 771 | [Jewels and Stones](./Hash%20Table/Jewels%20and%20Stones/) | Easy |
 | 2283 | [Check if Number Has Equal Digit Count and Digit Value](./Hash%20Table/Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value/) | Easy |
+| 3146 | [Permutation Difference between Two Strings](./Hash%20Table/Permutation%20Difference%20between%20Two%20Strings/) | Easy |
 
 </details>
 
