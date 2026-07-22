@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T13:46:28.389Z",
+  "lastUpdated": "2026-07-22T13:46:40.850Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -757,21 +757,22 @@
         }
       }
     },
-    "next-permutation": {
-      "questionId": "31",
-      "title": "Next Permutation",
-      "titleSlug": "next-permutation",
-      "difficulty": "Medium",
+    "longest-valid-parentheses": {
+      "questionId": "32",
+      "title": "Longest Valid Parentheses",
+      "titleSlug": "longest-valid-parentheses",
+      "difficulty": "Hard",
       "tags": [
-        "Array",
-        "Two Pointers"
+        "String",
+        "Dynamic Programming",
+        "Stack"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784727988389,
-          "runtime": "0 ms",
-          "memory": "43.1 MB",
-          "githubPath": "Array/Next Permutation/"
+          "syncedAt": 1784728000850,
+          "runtime": "4 ms",
+          "memory": "45.2 MB",
+          "githubPath": "String/Longest Valid Parentheses/"
         }
       }
     }
