@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T13:42:52.040Z",
+  "lastUpdated": "2026-07-22T13:43:10.689Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -718,6 +718,24 @@
           "runtime": "6 ms",
           "memory": "48.1 MB",
           "githubPath": "Array/Wiggle Sort II/"
+        }
+      }
+    },
+    "rotate-list": {
+      "questionId": "61",
+      "title": "Rotate List",
+      "titleSlug": "rotate-list",
+      "difficulty": "Medium",
+      "tags": [
+        "Linked List",
+        "Two Pointers"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1784727790689,
+          "runtime": "0 ms",
+          "memory": "42.5 MB",
+          "githubPath": "Linked List/Rotate List/"
         }
       }
     }
