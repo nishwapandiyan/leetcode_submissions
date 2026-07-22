@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:19:00.299Z",
+  "lastUpdated": "2026-07-22T12:19:28.233Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -178,6 +178,24 @@
           "runtime": "2 ms",
           "memory": "55.4 MB",
           "githubPath": "Array/Product of Array Except Self/"
+        }
+      }
+    },
+    "binary-search": {
+      "questionId": "704",
+      "title": "Binary Search",
+      "titleSlug": "binary-search",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Binary Search"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1784722768233,
+          "runtime": "0 ms",
+          "memory": "46 MB",
+          "githubPath": "Array/Binary Search/"
         }
       }
     }
