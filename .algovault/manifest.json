@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:26:27.688Z",
+  "lastUpdated": "2026-07-22T12:26:43.832Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -272,22 +272,23 @@
         }
       }
     },
-    "contains-duplicate": {
-      "questionId": "217",
-      "title": "Contains Duplicate",
-      "titleSlug": "contains-duplicate",
+    "add-binary": {
+      "questionId": "67",
+      "title": "Add Binary",
+      "titleSlug": "add-binary",
       "difficulty": "Easy",
       "tags": [
-        "Array",
-        "Hash Table",
-        "Sorting"
+        "Math",
+        "String",
+        "Bit Manipulation",
+        "Simulation"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784723187688,
-          "runtime": "14 ms",
-          "memory": "58.2 MB",
-          "githubPath": "Array/Contains Duplicate/"
+          "syncedAt": 1784723203832,
+          "runtime": "2 ms",
+          "memory": "42.5 MB",
+          "githubPath": "Math/Add Binary/"
         }
       }
     }
