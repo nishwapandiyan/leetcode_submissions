@@ -22,6 +22,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 18 | [4Sum](./Array/4Sum/) | Medium |
 | 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
 | 45 | [Jump Game II](./Array/Jump%20Game%20II/) | Medium |
+| 49 | [Group Anagrams](./Array/Group%20Anagrams/) | Medium |
 | 55 | [Jump Game](./Array/Jump%20Game/) | Medium |
 | 121 | [Best Time to Buy and Sell Stock](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
@@ -82,7 +83,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
-| 44 | [Wildcard Matching](./String/Wildcard%20Matching/) | Hard |
 | 1678 | [Goal Parser Interpretation](./String/Goal%20Parser%20Interpretation/) | Easy |
 
 </details>
