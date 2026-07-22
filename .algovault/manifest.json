@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:15:25.058Z",
+  "lastUpdated": "2026-07-22T12:15:58.006Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -122,6 +122,24 @@
           "runtime": "0 ms",
           "memory": "42 MB",
           "githubPath": "Array/Remove Element/"
+        }
+      }
+    },
+    "search-insert-position": {
+      "questionId": "35",
+      "title": "Search Insert Position",
+      "titleSlug": "search-insert-position",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Binary Search"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1784722558006,
+          "runtime": "0 ms",
+          "memory": "42.5 MB",
+          "githubPath": "Array/Search Insert Position/"
         }
       }
     }

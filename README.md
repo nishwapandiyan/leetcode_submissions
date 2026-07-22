@@ -20,6 +20,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 | 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
+| 35 | [Search Insert Position](./Array/Search%20Insert%20Position/) | Easy |
 
 </details>
 
