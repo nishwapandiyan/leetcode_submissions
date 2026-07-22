@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T13:50:05.161Z",
+  "lastUpdated": "2026-07-22T13:51:11.676Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -828,6 +828,26 @@
           "runtime": "5 ms",
           "memory": "43.1 MB",
           "githubPath": "String/Interleaving String/"
+        }
+      }
+    },
+    "validate-binary-search-tree": {
+      "questionId": "98",
+      "title": "Validate Binary Search Tree",
+      "titleSlug": "validate-binary-search-tree",
+      "difficulty": "Medium",
+      "tags": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Search Tree",
+        "Binary Tree"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1784728271676,
+          "runtime": "0 ms",
+          "memory": "45.1 MB",
+          "githubPath": "Tree/Validate Binary Search Tree/"
         }
       }
     }

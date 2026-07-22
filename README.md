@@ -114,6 +114,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Tree
+<details>
+<summary>Click to expand Tree problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 98 | [Validate Binary Search Tree](./Tree/Validate%20Binary%20Search%20Tree/) | Medium |
+
+</details>
+
+
 ### Two Pointers
 <details>
 <summary>Click to expand Two Pointers problems</summary>
