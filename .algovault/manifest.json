@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:35:41.466Z",
+  "lastUpdated": "2026-07-22T12:36:04.872Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -440,6 +440,28 @@
           "runtime": "1 ms",
           "memory": "44.9 MB",
           "githubPath": "Array/Find Words Containing Character/"
+        }
+      }
+    },
+    "sum-of-all-subset-xor-totals": {
+      "questionId": "1863",
+      "title": "Sum of All Subset XOR Totals",
+      "titleSlug": "sum-of-all-subset-xor-totals",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Math",
+        "Backtracking",
+        "Bit Manipulation",
+        "Combinatorics",
+        "Enumeration"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1784723764872,
+          "runtime": "0 ms",
+          "memory": "41.2 MB",
+          "githubPath": "Array/Sum of All Subset XOR Totals/"
         }
       }
     }
