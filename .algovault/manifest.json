@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:16:48.293Z",
+  "lastUpdated": "2026-07-22T12:17:03.441Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -141,6 +141,24 @@
           "runtime": "3 ms",
           "memory": "44.6 MB",
           "githubPath": "Hash Table/Roman to Integer/"
+        }
+      }
+    },
+    "valid-parentheses": {
+      "questionId": "20",
+      "title": "Valid Parentheses",
+      "titleSlug": "valid-parentheses",
+      "difficulty": "Easy",
+      "tags": [
+        "String",
+        "Stack"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1784722623441,
+          "runtime": "2 ms",
+          "memory": "41.8 MB",
+          "githubPath": "String/Valid Parentheses/"
         }
       }
     }
