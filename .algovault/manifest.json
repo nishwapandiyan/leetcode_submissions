@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:39:56.653Z",
+  "lastUpdated": "2026-07-22T12:40:31.176Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -495,21 +495,22 @@
         }
       }
     },
-    "check-if-the-sentence-is-pangram": {
-      "questionId": "1832",
-      "title": "Check if the Sentence Is Pangram",
-      "titleSlug": "check-if-the-sentence-is-pangram",
-      "difficulty": "Easy",
+    "multiply-strings": {
+      "questionId": "43",
+      "title": "Multiply Strings",
+      "titleSlug": "multiply-strings",
+      "difficulty": "Medium",
       "tags": [
-        "Hash Table",
-        "String"
+        "Math",
+        "String",
+        "Simulation"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784723996653,
-          "runtime": "0 ms",
-          "memory": "41.8 MB",
-          "githubPath": "Hash Table/Check if the Sentence Is Pangram/"
+          "syncedAt": 1784724031175,
+          "runtime": "3 ms",
+          "memory": "42.2 MB",
+          "githubPath": "Math/Multiply Strings/"
         }
       }
     }
