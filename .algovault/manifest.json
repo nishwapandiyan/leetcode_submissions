@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:33:52.829Z",
+  "lastUpdated": "2026-07-22T12:34:51.111Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -422,6 +422,24 @@
           "runtime": "6 ms",
           "memory": "45 MB",
           "githubPath": "Hash Table/First Unique Character in a String/"
+        }
+      }
+    },
+    "build-array-from-permutation": {
+      "questionId": "1920",
+      "title": "Build Array from Permutation",
+      "titleSlug": "build-array-from-permutation",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Simulation"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1784723691111,
+          "runtime": "1 ms",
+          "memory": "45.7 MB",
+          "githubPath": "Array/Build Array from Permutation/"
         }
       }
     }
