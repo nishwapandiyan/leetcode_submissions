@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:13:47.960Z",
+  "lastUpdated": "2026-07-22T12:14:35.009Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -89,21 +89,21 @@
         }
       }
     },
-    "pascals-triangle": {
-      "questionId": "118",
-      "title": "Pascal's Triangle",
-      "titleSlug": "pascals-triangle",
+    "two-sum": {
+      "questionId": "1",
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
       "difficulty": "Easy",
       "tags": [
         "Array",
-        "Dynamic Programming"
+        "Hash Table"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784722427960,
-          "runtime": "1 ms",
-          "memory": "41.9 MB",
-          "githubPath": "Array/Pascal's Triangle/"
+          "syncedAt": 1784722475009,
+          "runtime": "51 ms",
+          "memory": "44.8 MB",
+          "githubPath": "Array/Two Sum/"
         }
       }
     }
