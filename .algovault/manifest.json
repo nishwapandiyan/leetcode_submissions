@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:31:44.613Z",
+  "lastUpdated": "2026-07-22T12:31:59.539Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -367,21 +367,22 @@
         }
       }
     },
-    "remove-all-adjacent-duplicates-in-string": {
-      "questionId": "1047",
-      "title": "Remove All Adjacent Duplicates In String",
-      "titleSlug": "remove-all-adjacent-duplicates-in-string",
+    "add-strings": {
+      "questionId": "415",
+      "title": "Add Strings",
+      "titleSlug": "add-strings",
       "difficulty": "Easy",
       "tags": [
+        "Math",
         "String",
-        "Stack"
+        "Simulation"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784723504613,
-          "runtime": "11 ms",
-          "memory": "45.8 MB",
-          "githubPath": "String/Remove All Adjacent Duplicates In String/"
+          "syncedAt": 1784723519539,
+          "runtime": "1 ms",
+          "memory": "42.6 MB",
+          "githubPath": "Math/Add Strings/"
         }
       }
     }

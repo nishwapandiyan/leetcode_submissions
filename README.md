@@ -64,6 +64,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 7 | [Reverse Integer](./Math/Reverse%20Integer/) | Medium |
 | 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
+| 415 | [Add Strings](./Math/Add%20Strings/) | Easy |
 
 </details>
 
@@ -75,7 +76,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
-| 1047 | [Remove All Adjacent Duplicates In String](./String/Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy |
 
 </details>
 
