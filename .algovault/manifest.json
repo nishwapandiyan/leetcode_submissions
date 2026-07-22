@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:41:31.889Z",
+  "lastUpdated": "2026-07-22T12:41:45.170Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -529,6 +529,24 @@
           "runtime": "5 ms",
           "memory": "43.8 MB",
           "githubPath": "String/Simplify Path/"
+        }
+      }
+    },
+    "edit-distance": {
+      "questionId": "72",
+      "title": "Edit Distance",
+      "titleSlug": "edit-distance",
+      "difficulty": "Medium",
+      "tags": [
+        "String",
+        "Dynamic Programming"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1784724105170,
+          "runtime": "5 ms",
+          "memory": "45.6 MB",
+          "githubPath": "String/Edit Distance/"
         }
       }
     }
