@@ -81,7 +81,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
-| 3498 | [Reverse Degree of a String](./String/Reverse%20Degree%20of%20a%20String/) | Easy |
+| 1678 | [Goal Parser Interpretation](./String/Goal%20Parser%20Interpretation/) | Easy |
 
 </details>
 
