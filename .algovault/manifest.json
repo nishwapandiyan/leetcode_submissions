@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T13:38:34.276Z",
+  "lastUpdated": "2026-07-22T13:38:59.764Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -659,6 +659,24 @@
           "runtime": "1 ms",
           "memory": "42.7 MB",
           "githubPath": "Hash Table/Permutation Difference between Two Strings/"
+        }
+      }
+    },
+    "check-if-the-sentence-is-pangram": {
+      "questionId": "1832",
+      "title": "Check if the Sentence Is Pangram",
+      "titleSlug": "check-if-the-sentence-is-pangram",
+      "difficulty": "Easy",
+      "tags": [
+        "Hash Table",
+        "String"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1784727539764,
+          "runtime": "0 ms",
+          "memory": "41.8 MB",
+          "githubPath": "Hash Table/Check if the Sentence Is Pangram/"
         }
       }
     }
