@@ -89,6 +89,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 71 | [Simplify Path](./String/Simplify%20Path/) | Medium |
 | 72 | [Edit Distance](./String/Edit%20Distance/) | Medium |
 | 1678 | [Goal Parser Interpretation](./String/Goal%20Parser%20Interpretation/) | Easy |
+| 3110 | [Score of a String](./String/Score%20of%20a%20String/) | Easy |
 
 </details>
 

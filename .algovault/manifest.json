@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T13:35:12.229Z",
+  "lastUpdated": "2026-07-22T13:35:26.178Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -453,7 +453,7 @@
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784727312229,
+          "syncedAt": 1784723812325,
           "runtime": "1 ms",
           "memory": "42.6 MB",
           "githubPath": "Array/Kids With the Greatest Number of Candies/"
@@ -624,6 +624,23 @@
           "runtime": "1 ms",
           "memory": "42.4 MB",
           "githubPath": "Array/Final Value of Variable After Performing Operations/"
+        }
+      }
+    },
+    "score-of-a-string": {
+      "questionId": "3110",
+      "title": "Score of a String",
+      "titleSlug": "score-of-a-string",
+      "difficulty": "Easy",
+      "tags": [
+        "String"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1784727326178,
+          "runtime": "1 ms",
+          "memory": "42.3 MB",
+          "githubPath": "String/Score of a String/"
         }
       }
     }
