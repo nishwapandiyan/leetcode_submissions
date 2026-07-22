@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T13:45:27.246Z",
+  "lastUpdated": "2026-07-22T13:45:40.577Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -739,22 +739,24 @@
         }
       }
     },
-    "largest-rectangle-in-histogram": {
-      "questionId": "84",
-      "title": "Largest Rectangle in Histogram",
-      "titleSlug": "largest-rectangle-in-histogram",
+    "maximal-rectangle": {
+      "questionId": "85",
+      "title": "Maximal Rectangle",
+      "titleSlug": "maximal-rectangle",
       "difficulty": "Hard",
       "tags": [
         "Array",
+        "Dynamic Programming",
         "Stack",
+        "Matrix",
         "Monotonic Stack"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784727927246,
-          "runtime": "68 ms",
-          "memory": "57.7 MB",
-          "githubPath": "Array/Largest Rectangle in Histogram/"
+          "syncedAt": 1784727940577,
+          "runtime": "14 ms",
+          "memory": "47.1 MB",
+          "githubPath": "Array/Maximal Rectangle/"
         }
       }
     }
