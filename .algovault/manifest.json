@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T12:36:37.996Z",
+  "lastUpdated": "2026-07-22T12:36:52.325Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -443,24 +443,20 @@
         }
       }
     },
-    "count-the-number-of-consistent-strings": {
-      "questionId": "1684",
-      "title": "Count the Number of Consistent Strings",
-      "titleSlug": "count-the-number-of-consistent-strings",
+    "kids-with-the-greatest-number-of-candies": {
+      "questionId": "1431",
+      "title": "Kids With the Greatest Number of Candies",
+      "titleSlug": "kids-with-the-greatest-number-of-candies",
       "difficulty": "Easy",
       "tags": [
-        "Array",
-        "Hash Table",
-        "String",
-        "Bit Manipulation",
-        "Counting"
+        "Array"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784723797996,
-          "runtime": "13 ms",
-          "memory": "45.9 MB",
-          "githubPath": "Array/Count the Number of Consistent Strings/"
+          "syncedAt": 1784723812325,
+          "runtime": "1 ms",
+          "memory": "42.6 MB",
+          "githubPath": "Array/Kids With the Greatest Number of Candies/"
         }
       }
     }
