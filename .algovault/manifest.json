@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-24T05:37:14.396Z",
+  "lastUpdated": "2026-07-24T05:37:20.294Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1044,21 +1044,22 @@
         }
       }
     },
-    "merge-two-sorted-lists": {
-      "questionId": "21",
-      "title": "Merge Two Sorted Lists",
-      "titleSlug": "merge-two-sorted-lists",
+    "linked-list-cycle": {
+      "questionId": "141",
+      "title": "Linked List Cycle",
+      "titleSlug": "linked-list-cycle",
       "difficulty": "Easy",
       "tags": [
+        "Hash Table",
         "Linked List",
-        "Recursion"
+        "Two Pointers"
       ],
       "solutions": {
         "python3": {
-          "syncedAt": 1784871434396,
-          "runtime": "0 ms",
-          "memory": "19.4 MB",
-          "githubPath": "Linked List/Merge Two Sorted Lists/"
+          "syncedAt": 1784871440294,
+          "runtime": "57 ms",
+          "memory": "22.4 MB",
+          "githubPath": "Hash Table/Linked List Cycle/"
         }
       }
     }
