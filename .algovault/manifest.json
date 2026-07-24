@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-24T05:31:47.856Z",
+  "lastUpdated": "2026-07-24T05:31:54.309Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -968,22 +968,22 @@
         }
       }
     },
-    "find-most-frequent-vowel-and-consonant": {
-      "questionId": "3541",
-      "title": "Find Most Frequent Vowel and Consonant",
-      "titleSlug": "find-most-frequent-vowel-and-consonant",
+    "merge-sorted-array": {
+      "questionId": "88",
+      "title": "Merge Sorted Array",
+      "titleSlug": "merge-sorted-array",
       "difficulty": "Easy",
       "tags": [
-        "Hash Table",
-        "String",
-        "Counting"
+        "Array",
+        "Two Pointers",
+        "Sorting"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784871107856,
-          "runtime": "1 ms",
-          "memory": "43.8 MB",
-          "githubPath": "Hash Table/Find Most Frequent Vowel and Consonant/"
+          "syncedAt": 1784871114309,
+          "runtime": "0 ms",
+          "memory": "43.4 MB",
+          "githubPath": "Array/Merge Sorted Array/"
         }
       }
     }
