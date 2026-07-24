@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-24T05:31:22.267Z",
+  "lastUpdated": "2026-07-24T05:31:30.502Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -968,20 +968,22 @@
         }
       }
     },
-    "perfect-number": {
-      "questionId": "507",
-      "title": "Perfect Number",
-      "titleSlug": "perfect-number",
+    "the-two-sneaky-numbers-of-digitville": {
+      "questionId": "3289",
+      "title": "The Two Sneaky Numbers of Digitville",
+      "titleSlug": "the-two-sneaky-numbers-of-digitville",
       "difficulty": "Easy",
       "tags": [
+        "Array",
+        "Hash Table",
         "Math"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784871082267,
-          "runtime": "2154 ms",
-          "memory": "41.2 MB",
-          "githubPath": "Math/Perfect Number/"
+          "syncedAt": 1784871090502,
+          "runtime": "1 ms",
+          "memory": "45.8 MB",
+          "githubPath": "Array/The Two Sneaky Numbers of Digitville/"
         }
       }
     }
