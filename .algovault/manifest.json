@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-24T05:37:20.294Z",
+  "lastUpdated": "2026-07-24T05:37:28.697Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1044,11 +1044,11 @@
         }
       }
     },
-    "linked-list-cycle": {
-      "questionId": "141",
-      "title": "Linked List Cycle",
-      "titleSlug": "linked-list-cycle",
-      "difficulty": "Easy",
+    "linked-list-cycle-ii": {
+      "questionId": "142",
+      "title": "Linked List Cycle II",
+      "titleSlug": "linked-list-cycle-ii",
+      "difficulty": "Medium",
       "tags": [
         "Hash Table",
         "Linked List",
@@ -1056,10 +1056,10 @@
       ],
       "solutions": {
         "python3": {
-          "syncedAt": 1784871440294,
-          "runtime": "57 ms",
-          "memory": "22.4 MB",
-          "githubPath": "Hash Table/Linked List Cycle/"
+          "syncedAt": 1784871448697,
+          "runtime": "56 ms",
+          "memory": "22.3 MB",
+          "githubPath": "Hash Table/Linked List Cycle II/"
         }
       }
     }
