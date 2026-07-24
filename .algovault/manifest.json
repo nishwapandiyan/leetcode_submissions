@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-24T05:31:54.309Z",
+  "lastUpdated": "2026-07-24T05:31:59.496Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -984,6 +984,24 @@
           "runtime": "0 ms",
           "memory": "43.4 MB",
           "githubPath": "Array/Merge Sorted Array/"
+        }
+      }
+    },
+    "running-sum-of-1d-array": {
+      "questionId": "1480",
+      "title": "Running Sum of 1d Array",
+      "titleSlug": "running-sum-of-1d-array",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Prefix Sum"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1784871119496,
+          "runtime": "0 ms",
+          "memory": "44.4 MB",
+          "githubPath": "Array/Running Sum of 1d Array/"
         }
       }
     }
