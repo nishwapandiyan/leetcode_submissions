@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-24T05:31:38.272Z",
+  "lastUpdated": "2026-07-24T05:31:47.856Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -968,24 +968,22 @@
         }
       }
     },
-    "intersection-of-two-arrays": {
-      "questionId": "349",
-      "title": "Intersection of Two Arrays",
-      "titleSlug": "intersection-of-two-arrays",
+    "find-most-frequent-vowel-and-consonant": {
+      "questionId": "3541",
+      "title": "Find Most Frequent Vowel and Consonant",
+      "titleSlug": "find-most-frequent-vowel-and-consonant",
       "difficulty": "Easy",
       "tags": [
-        "Array",
         "Hash Table",
-        "Two Pointers",
-        "Binary Search",
-        "Sorting"
+        "String",
+        "Counting"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784871098272,
-          "runtime": "3 ms",
-          "memory": "45.5 MB",
-          "githubPath": "Array/Intersection of Two Arrays/"
+          "syncedAt": 1784871107856,
+          "runtime": "1 ms",
+          "memory": "43.8 MB",
+          "githubPath": "Hash Table/Find Most Frequent Vowel and Consonant/"
         }
       }
     }

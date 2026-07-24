@@ -33,7 +33,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
 | 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
 | 324 | [Wiggle Sort II](./Array/Wiggle%20Sort%20II/) | Medium |
-| 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
 | 720 | [Longest Word in Dictionary](./Array/Longest%20Word%20in%20Dictionary/) | Medium |
 | 1431 | [Kids With the Greatest Number of Candies](./Array/Kids%20With%20the%20Greatest%20Number%20of%20Candies/) | Easy |
@@ -72,6 +71,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 771 | [Jewels and Stones](./Hash%20Table/Jewels%20and%20Stones/) | Easy |
 | 2283 | [Check if Number Has Equal Digit Count and Digit Value](./Hash%20Table/Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value/) | Easy |
 | 3146 | [Permutation Difference between Two Strings](./Hash%20Table/Permutation%20Difference%20between%20Two%20Strings/) | Easy |
+| 3541 | [Find Most Frequent Vowel and Consonant](./Hash%20Table/Find%20Most%20Frequent%20Vowel%20and%20Consonant/) | Easy |
 
 </details>
 
