@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-24T05:15:37.303Z",
+  "lastUpdated": "2026-07-24T05:15:46.324Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -890,21 +890,24 @@
         }
       }
     },
-    "distinct-subsequences": {
-      "questionId": "115",
-      "title": "Distinct Subsequences",
-      "titleSlug": "distinct-subsequences",
-      "difficulty": "Hard",
+    "populating-next-right-pointers-in-each-node": {
+      "questionId": "116",
+      "title": "Populating Next Right Pointers in Each Node",
+      "titleSlug": "populating-next-right-pointers-in-each-node",
+      "difficulty": "Medium",
       "tags": [
-        "String",
-        "Dynamic Programming"
+        "Linked List",
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784870137303,
-          "runtime": "21 ms",
-          "memory": "66.7 MB",
-          "githubPath": "String/Distinct Subsequences/"
+          "syncedAt": 1784870146324,
+          "runtime": "0 ms",
+          "memory": "46.2 MB",
+          "githubPath": "Linked List/Populating Next Right Pointers in Each Node/"
         }
       }
     }
