@@ -28,7 +28,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 80 | [Remove Duplicates from Sorted Array II](./Array/Remove%20Duplicates%20from%20Sorted%20Array%20II/) | Medium |
 | 121 | [Best Time to Buy and Sell Stock](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy |
 | 130 | [Surrounded Regions](./Array/Surrounded%20Regions/) | Medium |
-| 134 | [Gas Station](./Array/Gas%20Station/) | Medium |
 | 164 | [Maximum Gap](./Array/Maximum%20Gap/) | Medium |
 | 179 | [Largest Number](./Array/Largest%20Number/) | Medium |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
@@ -98,6 +97,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 43 | [Multiply Strings](./Math/Multiply%20Strings/) | Medium |
 | 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
 | 415 | [Add Strings](./Math/Add%20Strings/) | Easy |
+| 507 | [Perfect Number](./Math/Perfect%20Number/) | Easy |
 
 </details>
 

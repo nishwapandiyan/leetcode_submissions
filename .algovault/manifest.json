@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-24T05:30:57.679Z",
+  "lastUpdated": "2026-07-24T05:31:22.267Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -968,21 +968,20 @@
         }
       }
     },
-    "gas-station": {
-      "questionId": "134",
-      "title": "Gas Station",
-      "titleSlug": "gas-station",
-      "difficulty": "Medium",
+    "perfect-number": {
+      "questionId": "507",
+      "title": "Perfect Number",
+      "titleSlug": "perfect-number",
+      "difficulty": "Easy",
       "tags": [
-        "Array",
-        "Greedy"
+        "Math"
       ],
       "solutions": {
-        "python3": {
-          "syncedAt": 1784871057679,
-          "runtime": "35 ms",
-          "memory": "23.3 MB",
-          "githubPath": "Array/Gas Station/"
+        "java": {
+          "syncedAt": 1784871082267,
+          "runtime": "2154 ms",
+          "memory": "41.2 MB",
+          "githubPath": "Math/Perfect Number/"
         }
       }
     }
