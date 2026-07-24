@@ -37,7 +37,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
 | 523 | [Continuous Subarray Sum](./Array/Continuous%20Subarray%20Sum/) | Medium |
 | 720 | [Longest Word in Dictionary](./Array/Longest%20Word%20in%20Dictionary/) | Medium |
-| 739 | [Daily Temperatures](./Array/Daily%20Temperatures/) | Medium |
 | 1431 | [Kids With the Greatest Number of Candies](./Array/Kids%20With%20the%20Greatest%20Number%20of%20Candies/) | Easy |
 | 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
 | 1572 | [Matrix Diagonal Sum](./Array/Matrix%20Diagonal%20Sum/) | Easy |
@@ -101,6 +100,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 43 | [Multiply Strings](./Math/Multiply%20Strings/) | Medium |
 | 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
 | 415 | [Add Strings](./Math/Add%20Strings/) | Easy |
+
+</details>
+
+
+### Stack
+<details>
+<summary>Click to expand Stack problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 144 | [Binary Tree Preorder Traversal](./Stack/Binary%20Tree%20Preorder%20Traversal/) | Easy |
 
 </details>
 
