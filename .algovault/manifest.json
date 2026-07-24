@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-24T05:32:08.179Z",
+  "lastUpdated": "2026-07-24T05:32:23.927Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -987,21 +987,20 @@
         }
       }
     },
-    "richest-customer-wealth": {
-      "questionId": "1672",
-      "title": "Richest Customer Wealth",
-      "titleSlug": "richest-customer-wealth",
+    "shuffle-the-array": {
+      "questionId": "1470",
+      "title": "Shuffle the Array",
+      "titleSlug": "shuffle-the-array",
       "difficulty": "Easy",
       "tags": [
-        "Array",
-        "Matrix"
+        "Array"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784871128179,
+          "syncedAt": 1784871143927,
           "runtime": "0 ms",
-          "memory": "44.7 MB",
-          "githubPath": "Array/Richest Customer Wealth/"
+          "memory": "46.5 MB",
+          "githubPath": "Array/Shuffle the Array/"
         }
       }
     }
