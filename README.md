@@ -62,6 +62,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 13 | [Roman to Integer](./Hash%20Table/Roman%20to%20Integer/) | Easy |
 | 17 | [Letter Combinations of a Phone Number](./Hash%20Table/Letter%20Combinations%20of%20a%20Phone%20Number/) | Medium |
+| 127 | [Word Ladder](./Hash%20Table/Word%20Ladder/) | Hard |
 | 202 | [Happy Number](./Hash%20Table/Happy%20Number/) | Easy |
 | 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
 | 387 | [First Unique Character in a String](./Hash%20Table/First%20Unique%20Character%20in%20a%20String/) | Easy |
@@ -80,7 +81,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 86 | [Partition List](./Linked%20List/Partition%20List/) | Medium |
 | 116 | [Populating Next Right Pointers in Each Node](./Linked%20List/Populating%20Next%20Right%20Pointers%20in%20Each%20Node/) | Medium |
-| 117 | [Populating Next Right Pointers in Each Node II](./Linked%20List/Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II/) | Medium |
 
 </details>
 

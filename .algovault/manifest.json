@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-24T05:15:54.823Z",
+  "lastUpdated": "2026-07-24T05:16:02.376Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -911,24 +911,22 @@
         }
       }
     },
-    "populating-next-right-pointers-in-each-node-ii": {
-      "questionId": "117",
-      "title": "Populating Next Right Pointers in Each Node II",
-      "titleSlug": "populating-next-right-pointers-in-each-node-ii",
-      "difficulty": "Medium",
+    "word-ladder": {
+      "questionId": "127",
+      "title": "Word Ladder",
+      "titleSlug": "word-ladder",
+      "difficulty": "Hard",
       "tags": [
-        "Linked List",
-        "Tree",
-        "Depth-First Search",
-        "Breadth-First Search",
-        "Binary Tree"
+        "Hash Table",
+        "String",
+        "Breadth-First Search"
       ],
       "solutions": {
-        "java": {
-          "syncedAt": 1784870154823,
-          "runtime": "0 ms",
-          "memory": "45.5 MB",
-          "githubPath": "Linked List/Populating Next Right Pointers in Each Node II/"
+        "python3": {
+          "syncedAt": 1784870162376,
+          "runtime": "293 ms",
+          "memory": "18.7 MB",
+          "githubPath": "Hash Table/Word Ladder/"
         }
       }
     }
