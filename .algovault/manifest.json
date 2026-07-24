@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-24T05:29:57.246Z",
+  "lastUpdated": "2026-07-24T05:30:06.304Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -950,22 +950,21 @@
         }
       }
     },
-    "fizz-buzz": {
-      "questionId": "412",
-      "title": "Fizz Buzz",
-      "titleSlug": "fizz-buzz",
+    "find-all-numbers-disappeared-in-an-array": {
+      "questionId": "448",
+      "title": "Find All Numbers Disappeared in an Array",
+      "titleSlug": "find-all-numbers-disappeared-in-an-array",
       "difficulty": "Easy",
       "tags": [
-        "Math",
-        "String",
-        "Simulation"
+        "Array",
+        "Hash Table"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784870997246,
-          "runtime": "1 ms",
-          "memory": "47 MB",
-          "githubPath": "Math/Fizz Buzz/"
+          "syncedAt": 1784871006304,
+          "runtime": "7 ms",
+          "memory": "67.1 MB",
+          "githubPath": "Array/Find All Numbers Disappeared in an Array/"
         }
       }
     }
