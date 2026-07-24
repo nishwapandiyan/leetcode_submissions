@@ -41,17 +41,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
-### Backtracking
-<details>
-<summary>Click to expand Backtracking problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 113 | [Path Sum II](./Backtracking/Path%20Sum%20II/) | Medium |
-
-</details>
-
-
 ### Database
 <details>
 <summary>Click to expand Database problems</summary>
@@ -90,6 +79,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 86 | [Partition List](./Linked%20List/Partition%20List/) | Medium |
+| 114 | [Flatten Binary Tree to Linked List](./Linked%20List/Flatten%20Binary%20Tree%20to%20Linked%20List/) | Medium |
 
 </details>
 
