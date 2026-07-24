@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-24T05:35:16.456Z",
+  "lastUpdated": "2026-07-24T05:35:23.979Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1004,22 +1004,23 @@
         }
       }
     },
-    "maximum-points-you-can-obtain-from-cards": {
-      "questionId": "1423",
-      "title": "Maximum Points You Can Obtain from Cards",
-      "titleSlug": "maximum-points-you-can-obtain-from-cards",
+    "continuous-subarray-sum": {
+      "questionId": "523",
+      "title": "Continuous Subarray Sum",
+      "titleSlug": "continuous-subarray-sum",
       "difficulty": "Medium",
       "tags": [
         "Array",
-        "Sliding Window",
+        "Hash Table",
+        "Math",
         "Prefix Sum"
       ],
       "solutions": {
-        "java": {
-          "syncedAt": 1784871316456,
-          "runtime": "2 ms",
-          "memory": "61.8 MB",
-          "githubPath": "Array/Maximum Points You Can Obtain from Cards/"
+        "python3": {
+          "syncedAt": 1784871323979,
+          "runtime": "47 ms",
+          "memory": "39.5 MB",
+          "githubPath": "Array/Continuous Subarray Sum/"
         }
       }
     }
