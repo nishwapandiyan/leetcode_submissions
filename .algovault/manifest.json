@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-24T05:13:23.340Z",
+  "lastUpdated": "2026-07-24T05:13:29.747Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -673,7 +673,7 @@
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784870003340,
+          "syncedAt": 1784727652548,
           "runtime": "1 ms",
           "memory": "42.2 MB",
           "githubPath": "String/Decode Ways/"
@@ -867,6 +867,24 @@
           "runtime": "1 ms",
           "memory": "43.7 MB",
           "githubPath": "Tree/Binary Tree Zigzag Level Order Traversal/"
+        }
+      }
+    },
+    "merge-intervals": {
+      "questionId": "56",
+      "title": "Merge Intervals",
+      "titleSlug": "merge-intervals",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Sorting"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1784870009747,
+          "runtime": "7 ms",
+          "memory": "46.9 MB",
+          "githubPath": "Array/Merge Intervals/"
         }
       }
     }
