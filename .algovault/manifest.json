@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-24T05:15:12.430Z",
+  "lastUpdated": "2026-07-24T05:15:26.463Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -806,7 +806,7 @@
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784870112430,
+          "syncedAt": 1784728151609,
           "runtime": "7 ms",
           "memory": "50.1 MB",
           "githubPath": "String/Restore IP Addresses/"
@@ -887,6 +887,26 @@
           "runtime": "37 ms",
           "memory": "61.4 MB",
           "githubPath": "Array/Maximum Gap/"
+        }
+      }
+    },
+    "path-sum-ii": {
+      "questionId": "113",
+      "title": "Path Sum II",
+      "titleSlug": "path-sum-ii",
+      "difficulty": "Medium",
+      "tags": [
+        "Backtracking",
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1784870126463,
+          "runtime": "1 ms",
+          "memory": "45.3 MB",
+          "githubPath": "Backtracking/Path Sum II/"
         }
       }
     }

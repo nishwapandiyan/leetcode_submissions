@@ -41,6 +41,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Backtracking
+<details>
+<summary>Click to expand Backtracking problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 113 | [Path Sum II](./Backtracking/Path%20Sum%20II/) | Medium |
+
+</details>
+
+
 ### Database
 <details>
 <summary>Click to expand Database problems</summary>
