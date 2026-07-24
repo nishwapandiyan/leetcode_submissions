@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-24T05:29:32.398Z",
+  "lastUpdated": "2026-07-24T05:29:42.711Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -947,6 +947,25 @@
           "runtime": "1 ms",
           "memory": "46.6 MB",
           "githubPath": "Array/Matrix Diagonal Sum/"
+        }
+      }
+    },
+    "transpose-matrix": {
+      "questionId": "867",
+      "title": "Transpose Matrix",
+      "titleSlug": "transpose-matrix",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1784870982711,
+          "runtime": "1 ms",
+          "memory": "46.4 MB",
+          "githubPath": "Array/Transpose Matrix/"
         }
       }
     }
