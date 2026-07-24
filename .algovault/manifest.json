@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-24T05:15:03.195Z",
+  "lastUpdated": "2026-07-24T05:15:12.430Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -806,7 +806,7 @@
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784728151609,
+          "syncedAt": 1784870112430,
           "runtime": "7 ms",
           "memory": "50.1 MB",
           "githubPath": "String/Restore IP Addresses/"
@@ -887,27 +887,6 @@
           "runtime": "37 ms",
           "memory": "61.4 MB",
           "githubPath": "Array/Maximum Gap/"
-        }
-      }
-    },
-    "trapping-rain-water": {
-      "questionId": "42",
-      "title": "Trapping Rain Water",
-      "titleSlug": "trapping-rain-water",
-      "difficulty": "Hard",
-      "tags": [
-        "Array",
-        "Two Pointers",
-        "Dynamic Programming",
-        "Stack",
-        "Monotonic Stack"
-      ],
-      "solutions": {
-        "java": {
-          "syncedAt": 1784870103195,
-          "runtime": "0 ms",
-          "memory": "46.7 MB",
-          "githubPath": "Array/Trapping Rain Water/"
         }
       }
     }
