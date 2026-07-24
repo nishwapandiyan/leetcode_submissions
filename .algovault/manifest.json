@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-24T05:37:28.697Z",
+  "lastUpdated": "2026-07-24T05:37:38.346Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1044,11 +1044,11 @@
         }
       }
     },
-    "linked-list-cycle-ii": {
-      "questionId": "142",
-      "title": "Linked List Cycle II",
-      "titleSlug": "linked-list-cycle-ii",
-      "difficulty": "Medium",
+    "intersection-of-two-linked-lists": {
+      "questionId": "160",
+      "title": "Intersection of Two Linked Lists",
+      "titleSlug": "intersection-of-two-linked-lists",
+      "difficulty": "Easy",
       "tags": [
         "Hash Table",
         "Linked List",
@@ -1056,10 +1056,10 @@
       ],
       "solutions": {
         "python3": {
-          "syncedAt": 1784871448697,
-          "runtime": "56 ms",
-          "memory": "22.3 MB",
-          "githubPath": "Hash Table/Linked List Cycle II/"
+          "syncedAt": 1784871458346,
+          "runtime": "129 ms",
+          "memory": "38.2 MB",
+          "githubPath": "Hash Table/Intersection of Two Linked Lists/"
         }
       }
     }
