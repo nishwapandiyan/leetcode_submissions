@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-24T05:35:31.055Z",
+  "lastUpdated": "2026-07-24T05:35:39.241Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1024,25 +1024,24 @@
         }
       }
     },
-    "find-k-closest-elements": {
-      "questionId": "658",
-      "title": "Find K Closest Elements",
-      "titleSlug": "find-k-closest-elements",
+    "max-chunks-to-make-sorted": {
+      "questionId": "769",
+      "title": "Max Chunks To Make Sorted",
+      "titleSlug": "max-chunks-to-make-sorted",
       "difficulty": "Medium",
       "tags": [
         "Array",
-        "Two Pointers",
-        "Binary Search",
-        "Sliding Window",
+        "Stack",
+        "Greedy",
         "Sorting",
-        "Heap (Priority Queue)"
+        "Monotonic Stack"
       ],
       "solutions": {
-        "java": {
-          "syncedAt": 1784871331055,
-          "runtime": "5 ms",
-          "memory": "48 MB",
-          "githubPath": "Array/Find K Closest Elements/"
+        "python3": {
+          "syncedAt": 1784871339241,
+          "runtime": "0 ms",
+          "memory": "19.4 MB",
+          "githubPath": "Array/Max Chunks To Make Sorted/"
         }
       }
     }
