@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-24T05:13:07.709Z",
+  "lastUpdated": "2026-07-24T05:13:14.686Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -870,24 +870,21 @@
         }
       }
     },
-    "word-search": {
-      "questionId": "79",
-      "title": "Word Search",
-      "titleSlug": "word-search",
-      "difficulty": "Medium",
+    "scramble-string": {
+      "questionId": "87",
+      "title": "Scramble String",
+      "titleSlug": "scramble-string",
+      "difficulty": "Hard",
       "tags": [
-        "Array",
         "String",
-        "Backtracking",
-        "Depth-First Search",
-        "Matrix"
+        "Dynamic Programming"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784869987709,
-          "runtime": "134 ms",
-          "memory": "41.5 MB",
-          "githubPath": "Array/Word Search/"
+          "syncedAt": 1784869994686,
+          "runtime": "11 ms",
+          "memory": "44.9 MB",
+          "githubPath": "String/Scramble String/"
         }
       }
     }
