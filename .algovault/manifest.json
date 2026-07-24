@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-24T05:35:53.392Z",
+  "lastUpdated": "2026-07-24T05:36:00.290Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1024,20 +1024,22 @@
         }
       }
     },
-    "count-and-say": {
-      "questionId": "38",
-      "title": "Count and Say",
-      "titleSlug": "count-and-say",
-      "difficulty": "Medium",
+    "median-of-two-sorted-arrays": {
+      "questionId": "4",
+      "title": "Median of Two Sorted Arrays",
+      "titleSlug": "median-of-two-sorted-arrays",
+      "difficulty": "Hard",
       "tags": [
-        "String"
+        "Array",
+        "Binary Search",
+        "Divide and Conquer"
       ],
       "solutions": {
-        "java": {
-          "syncedAt": 1784871353392,
-          "runtime": "2 ms",
-          "memory": "43 MB",
-          "githubPath": "String/Count and Say/"
+        "python3": {
+          "syncedAt": 1784871360290,
+          "runtime": "0 ms",
+          "memory": "19.4 MB",
+          "githubPath": "Array/Median of Two Sorted Arrays/"
         }
       }
     }
