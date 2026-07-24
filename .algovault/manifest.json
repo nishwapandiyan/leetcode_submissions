@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-24T05:37:06.462Z",
+  "lastUpdated": "2026-07-24T05:37:14.396Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1044,10 +1044,10 @@
         }
       }
     },
-    "reverse-linked-list": {
-      "questionId": "206",
-      "title": "Reverse Linked List",
-      "titleSlug": "reverse-linked-list",
+    "merge-two-sorted-lists": {
+      "questionId": "21",
+      "title": "Merge Two Sorted Lists",
+      "titleSlug": "merge-two-sorted-lists",
       "difficulty": "Easy",
       "tags": [
         "Linked List",
@@ -1055,10 +1055,10 @@
       ],
       "solutions": {
         "python3": {
-          "syncedAt": 1784871426462,
+          "syncedAt": 1784871434396,
           "runtime": "0 ms",
-          "memory": "20.6 MB",
-          "githubPath": "Linked List/Reverse Linked List/"
+          "memory": "19.4 MB",
+          "githubPath": "Linked List/Merge Two Sorted Lists/"
         }
       }
     }

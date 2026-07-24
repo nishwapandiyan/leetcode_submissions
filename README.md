@@ -84,9 +84,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 21 | [Merge Two Sorted Lists](./Linked%20List/Merge%20Two%20Sorted%20Lists/) | Easy |
 | 86 | [Partition List](./Linked%20List/Partition%20List/) | Medium |
 | 116 | [Populating Next Right Pointers in Each Node](./Linked%20List/Populating%20Next%20Right%20Pointers%20in%20Each%20Node/) | Medium |
-| 206 | [Reverse Linked List](./Linked%20List/Reverse%20Linked%20List/) | Easy |
 
 </details>
 
