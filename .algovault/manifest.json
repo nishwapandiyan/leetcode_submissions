@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-24T05:14:49.942Z",
+  "lastUpdated": "2026-07-24T05:15:03.195Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -890,21 +890,24 @@
         }
       }
     },
-    "first-missing-positive": {
-      "questionId": "41",
-      "title": "First Missing Positive",
-      "titleSlug": "first-missing-positive",
+    "trapping-rain-water": {
+      "questionId": "42",
+      "title": "Trapping Rain Water",
+      "titleSlug": "trapping-rain-water",
       "difficulty": "Hard",
       "tags": [
         "Array",
-        "Hash Table"
+        "Two Pointers",
+        "Dynamic Programming",
+        "Stack",
+        "Monotonic Stack"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784870089942,
-          "runtime": "1 ms",
-          "memory": "57.2 MB",
-          "githubPath": "Array/First Missing Positive/"
+          "syncedAt": 1784870103195,
+          "runtime": "0 ms",
+          "memory": "46.7 MB",
+          "githubPath": "Array/Trapping Rain Water/"
         }
       }
     }
