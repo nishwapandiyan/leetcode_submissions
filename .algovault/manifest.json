@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-24T05:38:13.271Z",
+  "lastUpdated": "2026-07-24T05:38:19.321Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1063,22 +1063,21 @@
         }
       }
     },
-    "find-all-anagrams-in-a-string": {
-      "questionId": "438",
-      "title": "Find All Anagrams in a String",
-      "titleSlug": "find-all-anagrams-in-a-string",
-      "difficulty": "Medium",
+    "permutation-sequence": {
+      "questionId": "60",
+      "title": "Permutation Sequence",
+      "titleSlug": "permutation-sequence",
+      "difficulty": "Hard",
       "tags": [
-        "Hash Table",
-        "String",
-        "Sliding Window"
+        "Math",
+        "Recursion"
       ],
       "solutions": {
-        "python3": {
-          "syncedAt": 1784871493271,
-          "runtime": "23 ms",
-          "memory": "19.9 MB",
-          "githubPath": "Hash Table/Find All Anagrams in a String/"
+        "python": {
+          "syncedAt": 1784871499321,
+          "runtime": "0 ms",
+          "memory": "12.4 MB",
+          "githubPath": "Math/Permutation Sequence/"
         }
       }
     }
