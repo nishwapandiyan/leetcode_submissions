@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-24T05:29:02.330Z",
+  "lastUpdated": "2026-07-24T05:29:16.353Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -932,23 +932,21 @@
         }
       }
     },
-    "clone-graph": {
-      "questionId": "133",
-      "title": "Clone Graph",
-      "titleSlug": "clone-graph",
+    "gas-station": {
+      "questionId": "134",
+      "title": "Gas Station",
+      "titleSlug": "gas-station",
       "difficulty": "Medium",
       "tags": [
-        "Hash Table",
-        "Depth-First Search",
-        "Breadth-First Search",
-        "Graph Theory"
+        "Array",
+        "Greedy"
       ],
       "solutions": {
         "python3": {
-          "syncedAt": 1784870942330,
-          "runtime": "47 ms",
-          "memory": "18.1 MB",
-          "githubPath": "Hash Table/Clone Graph/"
+          "syncedAt": 1784870956353,
+          "runtime": "35 ms",
+          "memory": "23.3 MB",
+          "githubPath": "Array/Gas Station/"
         }
       }
     }
