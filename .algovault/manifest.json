@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-24T05:35:23.979Z",
+  "lastUpdated": "2026-07-24T05:35:31.055Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1021,6 +1021,28 @@
           "runtime": "47 ms",
           "memory": "39.5 MB",
           "githubPath": "Array/Continuous Subarray Sum/"
+        }
+      }
+    },
+    "find-k-closest-elements": {
+      "questionId": "658",
+      "title": "Find K Closest Elements",
+      "titleSlug": "find-k-closest-elements",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Sliding Window",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1784871331055,
+          "runtime": "5 ms",
+          "memory": "48 MB",
+          "githubPath": "Array/Find K Closest Elements/"
         }
       }
     }
