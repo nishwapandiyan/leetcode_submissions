@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-24T05:35:47.301Z",
+  "lastUpdated": "2026-07-24T05:35:53.392Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1024,22 +1024,20 @@
         }
       }
     },
-    "text-justification": {
-      "questionId": "68",
-      "title": "Text Justification",
-      "titleSlug": "text-justification",
-      "difficulty": "Hard",
+    "count-and-say": {
+      "questionId": "38",
+      "title": "Count and Say",
+      "titleSlug": "count-and-say",
+      "difficulty": "Medium",
       "tags": [
-        "Array",
-        "String",
-        "Simulation"
+        "String"
       ],
       "solutions": {
-        "python3": {
-          "syncedAt": 1784871347301,
-          "runtime": "0 ms",
-          "memory": "19.3 MB",
-          "githubPath": "Array/Text Justification/"
+        "java": {
+          "syncedAt": 1784871353392,
+          "runtime": "2 ms",
+          "memory": "43 MB",
+          "githubPath": "String/Count and Say/"
         }
       }
     }

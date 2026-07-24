@@ -25,7 +25,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 40 | [Combination Sum II](./Array/Combination%20Sum%20II/) | Medium |
 | 45 | [Jump Game II](./Array/Jump%20Game%20II/) | Medium |
 | 55 | [Jump Game](./Array/Jump%20Game/) | Medium |
-| 68 | [Text Justification](./Array/Text%20Justification/) | Hard |
 | 80 | [Remove Duplicates from Sorted Array II](./Array/Remove%20Duplicates%20from%20Sorted%20Array%20II/) | Medium |
 | 88 | [Merge Sorted Array](./Array/Merge%20Sorted%20Array/) | Easy |
 | 121 | [Best Time to Buy and Sell Stock](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy |
@@ -112,6 +111,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
+| 38 | [Count and Say](./String/Count%20and%20Say/) | Medium |
 | 71 | [Simplify Path](./String/Simplify%20Path/) | Medium |
 | 72 | [Edit Distance](./String/Edit%20Distance/) | Medium |
 | 91 | [Decode Ways](./String/Decode%20Ways/) | Medium |
