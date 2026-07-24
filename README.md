@@ -37,12 +37,12 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
 | 523 | [Continuous Subarray Sum](./Array/Continuous%20Subarray%20Sum/) | Medium |
 | 720 | [Longest Word in Dictionary](./Array/Longest%20Word%20in%20Dictionary/) | Medium |
+| 739 | [Daily Temperatures](./Array/Daily%20Temperatures/) | Medium |
 | 1431 | [Kids With the Greatest Number of Candies](./Array/Kids%20With%20the%20Greatest%20Number%20of%20Candies/) | Easy |
 | 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
 | 1572 | [Matrix Diagonal Sum](./Array/Matrix%20Diagonal%20Sum/) | Easy |
 | 1920 | [Build Array from Permutation](./Array/Build%20Array%20from%20Permutation/) | Easy |
 | 2011 | [Final Value of Variable After Performing Operations](./Array/Final%20Value%20of%20Variable%20After%20Performing%20Operations/) | Easy |
-| 2352 | [Equal Row and Column Pairs](./Array/Equal%20Row%20and%20Column%20Pairs/) | Medium |
 | 2942 | [Find Words Containing Character](./Array/Find%20Words%20Containing%20Character/) | Easy |
 
 </details>

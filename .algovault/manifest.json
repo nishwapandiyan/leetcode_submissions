@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-24T05:36:15.756Z",
+  "lastUpdated": "2026-07-24T05:36:22.403Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1024,23 +1024,22 @@
         }
       }
     },
-    "equal-row-and-column-pairs": {
-      "questionId": "2352",
-      "title": "Equal Row and Column Pairs",
-      "titleSlug": "equal-row-and-column-pairs",
+    "daily-temperatures": {
+      "questionId": "739",
+      "title": "Daily Temperatures",
+      "titleSlug": "daily-temperatures",
       "difficulty": "Medium",
       "tags": [
         "Array",
-        "Hash Table",
-        "Matrix",
-        "Simulation"
+        "Stack",
+        "Monotonic Stack"
       ],
       "solutions": {
-        "python3": {
-          "syncedAt": 1784871375756,
-          "runtime": "30 ms",
-          "memory": "24.8 MB",
-          "githubPath": "Array/Equal Row and Column Pairs/"
+        "java": {
+          "syncedAt": 1784871382403,
+          "runtime": "70 ms",
+          "memory": "107.6 MB",
+          "githubPath": "Array/Daily Temperatures/"
         }
       }
     }
