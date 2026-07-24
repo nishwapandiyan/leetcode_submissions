@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-24T05:31:30.502Z",
+  "lastUpdated": "2026-07-24T05:31:38.272Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -968,22 +968,24 @@
         }
       }
     },
-    "the-two-sneaky-numbers-of-digitville": {
-      "questionId": "3289",
-      "title": "The Two Sneaky Numbers of Digitville",
-      "titleSlug": "the-two-sneaky-numbers-of-digitville",
+    "intersection-of-two-arrays": {
+      "questionId": "349",
+      "title": "Intersection of Two Arrays",
+      "titleSlug": "intersection-of-two-arrays",
       "difficulty": "Easy",
       "tags": [
         "Array",
         "Hash Table",
-        "Math"
+        "Two Pointers",
+        "Binary Search",
+        "Sorting"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784871090502,
-          "runtime": "1 ms",
-          "memory": "45.8 MB",
-          "githubPath": "Array/The Two Sneaky Numbers of Digitville/"
+          "syncedAt": 1784871098272,
+          "runtime": "3 ms",
+          "memory": "45.5 MB",
+          "githubPath": "Array/Intersection of Two Arrays/"
         }
       }
     }
