@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-24T05:29:49.730Z",
+  "lastUpdated": "2026-07-24T05:29:57.246Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -950,21 +950,22 @@
         }
       }
     },
-    "toeplitz-matrix": {
-      "questionId": "766",
-      "title": "Toeplitz Matrix",
-      "titleSlug": "toeplitz-matrix",
+    "fizz-buzz": {
+      "questionId": "412",
+      "title": "Fizz Buzz",
+      "titleSlug": "fizz-buzz",
       "difficulty": "Easy",
       "tags": [
-        "Array",
-        "Matrix"
+        "Math",
+        "String",
+        "Simulation"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784870989730,
-          "runtime": "0 ms",
-          "memory": "46.7 MB",
-          "githubPath": "Array/Toeplitz Matrix/"
+          "syncedAt": 1784870997246,
+          "runtime": "1 ms",
+          "memory": "47 MB",
+          "githubPath": "Math/Fizz Buzz/"
         }
       }
     }
