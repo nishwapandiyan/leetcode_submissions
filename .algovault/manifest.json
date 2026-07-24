@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-24T05:29:22.366Z",
+  "lastUpdated": "2026-07-24T05:29:27.266Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -932,20 +932,21 @@
         }
       }
     },
-    "insert-interval": {
-      "questionId": "57",
-      "title": "Insert Interval",
-      "titleSlug": "insert-interval",
+    "triangle": {
+      "questionId": "120",
+      "title": "Triangle",
+      "titleSlug": "triangle",
       "difficulty": "Medium",
       "tags": [
-        "Array"
+        "Array",
+        "Dynamic Programming"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784870962366,
-          "runtime": "1 ms",
-          "memory": "47.1 MB",
-          "githubPath": "Array/Insert Interval/"
+          "syncedAt": 1784870967266,
+          "runtime": "3 ms",
+          "memory": "45.2 MB",
+          "githubPath": "Array/Triangle/"
         }
       }
     }
