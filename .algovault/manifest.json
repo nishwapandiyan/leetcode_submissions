@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-24T05:35:08.476Z",
+  "lastUpdated": "2026-07-24T05:35:16.456Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1004,24 +1004,22 @@
         }
       }
     },
-    "count-number-of-nice-subarrays": {
-      "questionId": "1248",
-      "title": "Count Number of Nice Subarrays",
-      "titleSlug": "count-number-of-nice-subarrays",
+    "maximum-points-you-can-obtain-from-cards": {
+      "questionId": "1423",
+      "title": "Maximum Points You Can Obtain from Cards",
+      "titleSlug": "maximum-points-you-can-obtain-from-cards",
       "difficulty": "Medium",
       "tags": [
         "Array",
-        "Hash Table",
-        "Math",
         "Sliding Window",
         "Prefix Sum"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784871308476,
-          "runtime": "13 ms",
-          "memory": "59.3 MB",
-          "githubPath": "Array/Count Number of Nice Subarrays/"
+          "syncedAt": 1784871316456,
+          "runtime": "2 ms",
+          "memory": "61.8 MB",
+          "githubPath": "Array/Maximum Points You Can Obtain from Cards/"
         }
       }
     }
