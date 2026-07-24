@@ -25,9 +25,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 40 | [Combination Sum II](./Array/Combination%20Sum%20II/) | Medium |
 | 45 | [Jump Game II](./Array/Jump%20Game%20II/) | Medium |
 | 55 | [Jump Game](./Array/Jump%20Game/) | Medium |
-| 75 | [Sort Colors](./Array/Sort%20Colors/) | Medium |
 | 80 | [Remove Duplicates from Sorted Array II](./Array/Remove%20Duplicates%20from%20Sorted%20Array%20II/) | Medium |
 | 121 | [Best Time to Buy and Sell Stock](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy |
+| 164 | [Maximum Gap](./Array/Maximum%20Gap/) | Medium |
 | 179 | [Largest Number](./Array/Largest%20Number/) | Medium |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
 | 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
