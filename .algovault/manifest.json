@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-24T05:29:27.266Z",
+  "lastUpdated": "2026-07-24T05:29:32.398Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -932,21 +932,21 @@
         }
       }
     },
-    "triangle": {
-      "questionId": "120",
-      "title": "Triangle",
-      "titleSlug": "triangle",
-      "difficulty": "Medium",
+    "matrix-diagonal-sum": {
+      "questionId": "1572",
+      "title": "Matrix Diagonal Sum",
+      "titleSlug": "matrix-diagonal-sum",
+      "difficulty": "Easy",
       "tags": [
         "Array",
-        "Dynamic Programming"
+        "Matrix"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784870967266,
-          "runtime": "3 ms",
-          "memory": "45.2 MB",
-          "githubPath": "Array/Triangle/"
+          "syncedAt": 1784870972398,
+          "runtime": "1 ms",
+          "memory": "46.6 MB",
+          "githubPath": "Array/Matrix Diagonal Sum/"
         }
       }
     }
