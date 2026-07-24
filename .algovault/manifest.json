@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-24T05:15:32.350Z",
+  "lastUpdated": "2026-07-24T05:15:37.303Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -890,24 +890,21 @@
         }
       }
     },
-    "flatten-binary-tree-to-linked-list": {
-      "questionId": "114",
-      "title": "Flatten Binary Tree to Linked List",
-      "titleSlug": "flatten-binary-tree-to-linked-list",
-      "difficulty": "Medium",
+    "distinct-subsequences": {
+      "questionId": "115",
+      "title": "Distinct Subsequences",
+      "titleSlug": "distinct-subsequences",
+      "difficulty": "Hard",
       "tags": [
-        "Linked List",
-        "Stack",
-        "Tree",
-        "Depth-First Search",
-        "Binary Tree"
+        "String",
+        "Dynamic Programming"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784870132350,
-          "runtime": "0 ms",
-          "memory": "43.4 MB",
-          "githubPath": "Linked List/Flatten Binary Tree to Linked List/"
+          "syncedAt": 1784870137303,
+          "runtime": "21 ms",
+          "memory": "66.7 MB",
+          "githubPath": "String/Distinct Subsequences/"
         }
       }
     }

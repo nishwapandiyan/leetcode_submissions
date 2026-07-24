@@ -79,7 +79,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 86 | [Partition List](./Linked%20List/Partition%20List/) | Medium |
-| 114 | [Flatten Binary Tree to Linked List](./Linked%20List/Flatten%20Binary%20Tree%20to%20Linked%20List/) | Medium |
 
 </details>
 
@@ -110,6 +109,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 91 | [Decode Ways](./String/Decode%20Ways/) | Medium |
 | 93 | [Restore IP Addresses](./String/Restore%20IP%20Addresses/) | Medium |
 | 97 | [Interleaving String](./String/Interleaving%20String/) | Medium |
+| 115 | [Distinct Subsequences](./String/Distinct%20Subsequences/) | Hard |
 | 1678 | [Goal Parser Interpretation](./String/Goal%20Parser%20Interpretation/) | Easy |
 | 3110 | [Score of a String](./String/Score%20of%20a%20String/) | Easy |
 
