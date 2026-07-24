@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-24T05:29:42.711Z",
+  "lastUpdated": "2026-07-24T05:29:49.730Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -950,22 +950,21 @@
         }
       }
     },
-    "transpose-matrix": {
-      "questionId": "867",
-      "title": "Transpose Matrix",
-      "titleSlug": "transpose-matrix",
+    "toeplitz-matrix": {
+      "questionId": "766",
+      "title": "Toeplitz Matrix",
+      "titleSlug": "toeplitz-matrix",
       "difficulty": "Easy",
       "tags": [
         "Array",
-        "Matrix",
-        "Simulation"
+        "Matrix"
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784870982711,
-          "runtime": "1 ms",
-          "memory": "46.4 MB",
-          "githubPath": "Array/Transpose Matrix/"
+          "syncedAt": 1784870989730,
+          "runtime": "0 ms",
+          "memory": "46.7 MB",
+          "githubPath": "Array/Toeplitz Matrix/"
         }
       }
     }
