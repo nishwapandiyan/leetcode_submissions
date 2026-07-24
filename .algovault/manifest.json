@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22T13:53:07.688Z",
+  "lastUpdated": "2026-07-24T05:12:46.133Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -525,7 +525,7 @@
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784724091889,
+          "syncedAt": 1784869966133,
           "runtime": "5 ms",
           "memory": "43.8 MB",
           "githubPath": "String/Simplify Path/"
