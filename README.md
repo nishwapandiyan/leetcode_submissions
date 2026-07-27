@@ -25,6 +25,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 40 | [Combination Sum II](./Array/Combination%20Sum%20II/) | Medium |
 | 45 | [Jump Game II](./Array/Jump%20Game%20II/) | Medium |
 | 55 | [Jump Game](./Array/Jump%20Game/) | Medium |
+| 78 | [Subsets](./Array/Subsets/) | Medium |
 | 80 | [Remove Duplicates from Sorted Array II](./Array/Remove%20Duplicates%20from%20Sorted%20Array%20II/) | Medium |
 | 88 | [Merge Sorted Array](./Array/Merge%20Sorted%20Array/) | Easy |
 | 121 | [Best Time to Buy and Sell Stock](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy |
@@ -85,7 +86,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 2 | [Add Two Numbers](./Linked%20List/Add%20Two%20Numbers/) | Medium |
 | 86 | [Partition List](./Linked%20List/Partition%20List/) | Medium |
 | 116 | [Populating Next Right Pointers in Each Node](./Linked%20List/Populating%20Next%20Right%20Pointers%20in%20Each%20Node/) | Medium |
 
