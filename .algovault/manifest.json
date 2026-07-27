@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-27T05:02:48.324Z",
+  "lastUpdated": "2026-07-27T05:02:56.893Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1081,21 +1081,21 @@
         }
       }
     },
-    "find-smallest-letter-greater-than-target": {
-      "questionId": "744",
-      "title": "Find Smallest Letter Greater Than Target",
-      "titleSlug": "find-smallest-letter-greater-than-target",
+    "first-bad-version": {
+      "questionId": "278",
+      "title": "First Bad Version",
+      "titleSlug": "first-bad-version",
       "difficulty": "Easy",
       "tags": [
-        "Array",
-        "Binary Search"
+        "Binary Search",
+        "Interactive"
       ],
       "solutions": {
         "python3": {
-          "syncedAt": 1785128568324,
-          "runtime": "0 ms",
-          "memory": "20.6 MB",
-          "githubPath": "Array/Find Smallest Letter Greater Than Target/"
+          "syncedAt": 1785128576893,
+          "runtime": "47 ms",
+          "memory": "19.2 MB",
+          "githubPath": "Binary Search/First Bad Version/"
         }
       }
     }
