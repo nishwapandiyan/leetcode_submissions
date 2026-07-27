@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-27T05:01:58.380Z",
+  "lastUpdated": "2026-07-27T05:02:06.338Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1081,22 +1081,20 @@
         }
       }
     },
-    "longest-substring-without-repeating-characters": {
-      "questionId": "3",
-      "title": "Longest Substring Without Repeating Characters",
-      "titleSlug": "longest-substring-without-repeating-characters",
-      "difficulty": "Medium",
+    "n-queens-ii": {
+      "questionId": "52",
+      "title": "N-Queens II",
+      "titleSlug": "n-queens-ii",
+      "difficulty": "Hard",
       "tags": [
-        "Hash Table",
-        "String",
-        "Sliding Window"
+        "Backtracking"
       ],
       "solutions": {
         "python3": {
-          "syncedAt": 1785128518380,
-          "runtime": "12 ms",
-          "memory": "19.4 MB",
-          "githubPath": "Hash Table/Longest Substring Without Repeating Characters/"
+          "syncedAt": 1785128526338,
+          "runtime": "7 ms",
+          "memory": "19.5 MB",
+          "githubPath": "Backtracking/N-Queens II/"
         }
       }
     }
