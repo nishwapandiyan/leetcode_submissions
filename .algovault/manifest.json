@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-27T05:01:45.176Z",
+  "lastUpdated": "2026-07-27T05:01:50.291Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1063,20 +1063,21 @@
         }
       }
     },
-    "length-of-last-word": {
-      "questionId": "58",
-      "title": "Length of Last Word",
-      "titleSlug": "length-of-last-word",
+    "valid-palindrome": {
+      "questionId": "125",
+      "title": "Valid Palindrome",
+      "titleSlug": "valid-palindrome",
       "difficulty": "Easy",
       "tags": [
+        "Two Pointers",
         "String"
       ],
       "solutions": {
         "python3": {
-          "syncedAt": 1785128505176,
-          "runtime": "0 ms",
-          "memory": "19.2 MB",
-          "githubPath": "String/Length of Last Word/"
+          "syncedAt": 1785128510291,
+          "runtime": "10 ms",
+          "memory": "23.3 MB",
+          "githubPath": "Two Pointers/Valid Palindrome/"
         }
       }
     }
