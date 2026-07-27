@@ -123,6 +123,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
+| 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
 | 71 | [Simplify Path](./String/Simplify%20Path/) | Medium |
 | 72 | [Edit Distance](./String/Edit%20Distance/) | Medium |
 | 91 | [Decode Ways](./String/Decode%20Ways/) | Medium |
