@@ -47,17 +47,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
-### Binary Search
-<details>
-<summary>Click to expand Binary Search problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 374 | [Guess Number Higher or Lower](./Binary%20Search/Guess%20Number%20Higher%20or%20Lower/) | Easy |
-
-</details>
-
-
 ### Database
 <details>
 <summary>Click to expand Database problems</summary>
@@ -111,6 +100,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 7 | [Reverse Integer](./Math/Reverse%20Integer/) | Medium |
 | 43 | [Multiply Strings](./Math/Multiply%20Strings/) | Medium |
 | 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
+| 69 | [Sqrt(x)](./Math/Sqrt(x)/) | Easy |
 | 415 | [Add Strings](./Math/Add%20Strings/) | Easy |
 
 </details>

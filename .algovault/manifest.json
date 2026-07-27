@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-27T05:02:21.356Z",
+  "lastUpdated": "2026-07-27T05:02:26.958Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1081,21 +1081,21 @@
         }
       }
     },
-    "guess-number-higher-or-lower": {
-      "questionId": "374",
-      "title": "Guess Number Higher or Lower",
-      "titleSlug": "guess-number-higher-or-lower",
+    "sqrtx": {
+      "questionId": "69",
+      "title": "Sqrt(x)",
+      "titleSlug": "sqrtx",
       "difficulty": "Easy",
       "tags": [
-        "Binary Search",
-        "Interactive"
+        "Math",
+        "Binary Search"
       ],
       "solutions": {
         "python3": {
-          "syncedAt": 1785128541356,
-          "runtime": "56 ms",
-          "memory": "19.2 MB",
-          "githubPath": "Binary Search/Guess Number Higher or Lower/"
+          "syncedAt": 1785128546958,
+          "runtime": "3 ms",
+          "memory": "19.5 MB",
+          "githubPath": "Math/Sqrt(x)/"
         }
       }
     }
