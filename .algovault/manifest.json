@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-27T05:01:50.291Z",
+  "lastUpdated": "2026-07-27T05:01:58.380Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1078,6 +1078,25 @@
           "runtime": "10 ms",
           "memory": "23.3 MB",
           "githubPath": "Two Pointers/Valid Palindrome/"
+        }
+      }
+    },
+    "longest-substring-without-repeating-characters": {
+      "questionId": "3",
+      "title": "Longest Substring Without Repeating Characters",
+      "titleSlug": "longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "tags": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "solutions": {
+        "python3": {
+          "syncedAt": 1785128518380,
+          "runtime": "12 ms",
+          "memory": "19.4 MB",
+          "githubPath": "Hash Table/Longest Substring Without Repeating Characters/"
         }
       }
     }
