@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-27T05:02:06.338Z",
+  "lastUpdated": "2026-07-27T05:02:13.355Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1081,20 +1081,21 @@
         }
       }
     },
-    "n-queens-ii": {
-      "questionId": "52",
-      "title": "N-Queens II",
-      "titleSlug": "n-queens-ii",
+    "n-queens": {
+      "questionId": "51",
+      "title": "N-Queens",
+      "titleSlug": "n-queens",
       "difficulty": "Hard",
       "tags": [
+        "Array",
         "Backtracking"
       ],
       "solutions": {
         "python3": {
-          "syncedAt": 1785128526338,
-          "runtime": "7 ms",
-          "memory": "19.5 MB",
-          "githubPath": "Backtracking/N-Queens II/"
+          "syncedAt": 1785128533355,
+          "runtime": "30 ms",
+          "memory": "19.7 MB",
+          "githubPath": "Array/N-Queens/"
         }
       }
     }

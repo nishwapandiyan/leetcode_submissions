@@ -24,6 +24,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 37 | [Sudoku Solver](./Array/Sudoku%20Solver/) | Hard |
 | 40 | [Combination Sum II](./Array/Combination%20Sum%20II/) | Medium |
 | 45 | [Jump Game II](./Array/Jump%20Game%20II/) | Medium |
+| 51 | [N-Queens](./Array/N-Queens/) | Hard |
 | 55 | [Jump Game](./Array/Jump%20Game/) | Medium |
 | 80 | [Remove Duplicates from Sorted Array II](./Array/Remove%20Duplicates%20from%20Sorted%20Array%20II/) | Medium |
 | 88 | [Merge Sorted Array](./Array/Merge%20Sorted%20Array/) | Easy |
@@ -43,17 +44,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1920 | [Build Array from Permutation](./Array/Build%20Array%20from%20Permutation/) | Easy |
 | 2011 | [Final Value of Variable After Performing Operations](./Array/Final%20Value%20of%20Variable%20After%20Performing%20Operations/) | Easy |
 | 2942 | [Find Words Containing Character](./Array/Find%20Words%20Containing%20Character/) | Easy |
-
-</details>
-
-
-### Backtracking
-<details>
-<summary>Click to expand Backtracking problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 52 | [N-Queens II](./Backtracking/N-Queens%20II/) | Hard |
 
 </details>
 
