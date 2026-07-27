@@ -100,7 +100,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 7 | [Reverse Integer](./Math/Reverse%20Integer/) | Medium |
 | 43 | [Multiply Strings](./Math/Multiply%20Strings/) | Medium |
 | 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
-| 69 | [Sqrt(x)](./Math/Sqrt(x)/) | Easy |
+| 367 | [Valid Perfect Square](./Math/Valid%20Perfect%20Square/) | Easy |
 | 415 | [Add Strings](./Math/Add%20Strings/) | Easy |
 
 </details>
