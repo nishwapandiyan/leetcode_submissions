@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-08T09:06:29.909Z",
+  "lastUpdated": "2026-08-08T09:26:39.735Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1179,6 +1179,12 @@
           "syncedAt": 1786179989909,
           "runtime": "0 ms",
           "memory": "19.3 MB",
+          "githubPath": "Hash Table/Maximum Difference Between Even and Odd Frequency I/"
+        },
+        "12345678910111213class solution:    def maxdifference(self, s: str) -> int:        d = {}        for ch in s:            d[ch] = d.get(ch,0)+1        max_odd = 0        min_even = float(\"inf\")        for v in d.values():            if v %2 != 0:                max_odd = max(max_odd,v)            else:                min_even = min(min_even,v)         return max_odd - min_even": {
+          "syncedAt": 1786181199735,
+          "runtime": "0 ms",
+          "memory": "19.27 MB",
           "githubPath": "Hash Table/Maximum Difference Between Even and Odd Frequency I/"
         }
       }

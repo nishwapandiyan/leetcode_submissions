@@ -5,57 +5,66 @@
 
 ## Problem Statement
 
-<p>You are given a string <code>s</code> consisting of lowercase English letters.</p>
+You are given a string s consisting of lowercase English letters.
 
-<p>Your task is to find the <strong>maximum</strong> difference <code>diff = freq(a<sub>1</sub>) - freq(a<sub>2</sub>)</code> between the frequency of characters <code>a<sub>1</sub></code> and <code>a<sub>2</sub></code> in the string such that:</p>
+Your task is to find the maximum difference diff = freq(a1) - freq(a2) between the frequency of characters a1 and a2 in the string such that:
 
-<ul>
-	<li><code>a<sub>1</sub></code> has an <strong>odd frequency</strong> in the string.</li>
-	<li><code>a<sub>2</sub></code> has an <strong>even frequency</strong> in the string.</li>
-</ul>
 
-<p>Return this <strong>maximum</strong> difference.</p>
+	a1 has an odd frequency in the string.
+	a2 has an even frequency in the string.
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
 
-<div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">s = &quot;aaaaabbc&quot;</span></p>
+Return this maximum difference.
 
-<p><strong>Output:</strong> 3</p>
+ 
+Example 1:
 
-<p><strong>Explanation:</strong></p>
 
-<ul>
-	<li>The character <code>&#39;a&#39;</code> has an <strong>odd frequency</strong> of <code><font face="monospace">5</font></code><font face="monospace">,</font> and <code>&#39;b&#39;</code> has an <strong>even frequency</strong> of <code><font face="monospace">2</font></code>.</li>
-	<li>The maximum difference is <code>5 - 2 = 3</code>.</li>
-</ul>
-</div>
+Input: s = "aaaaabbc"
 
-<p><strong class="example">Example 2:</strong></p>
+Output: 3
 
-<div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">s = &quot;abcabcab&quot;</span></p>
+Explanation:
 
-<p><strong>Output:</strong> 1</p>
 
-<p><strong>Explanation:</strong></p>
+	The character 'a' has an odd frequency of 5, and 'b' has an even frequency of 2.
+	The maximum difference is 5 - 2 = 3.
 
-<ul>
-	<li>The character <code>&#39;a&#39;</code> has an <strong>odd frequency</strong> of <code><font face="monospace">3</font></code><font face="monospace">,</font> and <code>&#39;c&#39;</code> has an <strong>even frequency</strong> of <font face="monospace">2</font>.</li>
-	<li>The maximum difference is <code>3 - 2 = 1</code>.</li>
-</ul>
-</div>
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
 
-<ul>
-	<li><code>3 &lt;= s.length &lt;= 100</code></li>
-	<li><code>s</code> consists only of lowercase English letters.</li>
-	<li><code>s</code> contains at least one character with an odd frequency and one with an even frequency.</li>
-</ul>
+Example 2:
 
+
+Input: s = "abcabcab"
+
+Output: 1
+
+Explanation:
+
+
+	The character 'a' has an odd frequency of 3, and 'c' has an even frequency of 2.
+	The maximum difference is 3 - 2 = 1.
+
+
+
+ 
+Constraints:
+
+
+	3 <= s.length <= 100
+	s consists only of lowercase English letters.
+	s contains at least one character with an odd frequency and one with an even frequency.
+
+## Examples
+
+```
+See problem description.
+```
+
+## Constraints
+
+- a1 has an odd frequency in the string.
+- a2 has an even frequency in the string.
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
