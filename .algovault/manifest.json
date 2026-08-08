@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-08T09:26:39.735Z",
+  "lastUpdated": "2026-08-08T10:20:02.281Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1186,6 +1186,26 @@
           "runtime": "0 ms",
           "memory": "19.27 MB",
           "githubPath": "Hash Table/Maximum Difference Between Even and Odd Frequency I/"
+        }
+      }
+    },
+    "sort-the-people": {
+      "questionId": "2418",
+      "title": "Sort the People",
+      "titleSlug": "sort-the-people",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "solutions": {
+        "python3": {
+          "syncedAt": 1786184402281,
+          "runtime": "1 ms",
+          "memory": "19.6 MB",
+          "githubPath": "Array/Sort the People/"
         }
       }
     }
