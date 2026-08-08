@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-08T08:35:48.827Z",
+  "lastUpdated": "2026-08-08T08:44:40.268Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1133,6 +1133,28 @@
           "runtime": "0 ms",
           "memory": "19.7 MB",
           "githubPath": "Array/Can Place Flowers/"
+        }
+      }
+    },
+    "majority-element": {
+      "questionId": "169",
+      "title": "Majority Element",
+      "titleSlug": "majority-element",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Hash Table",
+        "Divide and Conquer",
+        "Sorting",
+        "Counting",
+        "Boyer–Moore Majority Vote Algorithm"
+      ],
+      "solutions": {
+        "python3": {
+          "syncedAt": 1786178680268,
+          "runtime": "15 ms",
+          "memory": "21 MB",
+          "githubPath": "Array/Majority Element/"
         }
       }
     }
