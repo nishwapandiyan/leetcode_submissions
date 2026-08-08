@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-08T08:44:40.268Z",
+  "lastUpdated": "2026-08-08T08:46:47.949Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1154,6 +1154,12 @@
           "syncedAt": 1786178680268,
           "runtime": "15 ms",
           "memory": "21 MB",
+          "githubPath": "Array/Majority Element/"
+        },
+        "1c": {
+          "syncedAt": 1786178807949,
+          "runtime": "0 ms",
+          "memory": "N/A",
           "githubPath": "Array/Majority Element/"
         }
       }
