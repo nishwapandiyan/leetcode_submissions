@@ -89,6 +89,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 771 | [Jewels and Stones](./Hash%20Table/Jewels%20and%20Stones/) | Easy |
 | 2283 | [Check if Number Has Equal Digit Count and Digit Value](./Hash%20Table/Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value/) | Easy |
 | 3146 | [Permutation Difference between Two Strings](./Hash%20Table/Permutation%20Difference%20between%20Two%20Strings/) | Easy |
+| 3442 | [Maximum Difference Between Even and Odd Frequency I](./Hash%20Table/Maximum%20Difference%20Between%20Even%20and%20Odd%20Frequency%20I/) | Easy |
 
 </details>
 
