@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-08T12:17:49.311Z",
+  "lastUpdated": "2026-08-08T13:07:50.856Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1224,6 +1224,25 @@
           "runtime": "3 ms",
           "memory": "20.2 MB",
           "githubPath": "Array/Find Pivot Index/"
+        }
+      }
+    },
+    "find-common-characters": {
+      "questionId": "1002",
+      "title": "Find Common Characters",
+      "titleSlug": "find-common-characters",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Hash Table",
+        "String"
+      ],
+      "solutions": {
+        "python3": {
+          "syncedAt": 1786194470856,
+          "runtime": "12 ms",
+          "memory": "19.6 MB",
+          "githubPath": "Array/Find Common Characters/"
         }
       }
     }

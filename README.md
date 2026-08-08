@@ -41,6 +41,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 720 | [Longest Word in Dictionary](./Array/Longest%20Word%20in%20Dictionary/) | Medium |
 | 724 | [Find Pivot Index](./Array/Find%20Pivot%20Index/) | Easy |
 | 929 | [Unique Email Addresses](./Array/Unique%20Email%20Addresses/) | Easy |
+| 1002 | [Find Common Characters](./Array/Find%20Common%20Characters/) | Easy |
 | 1431 | [Kids With the Greatest Number of Candies](./Array/Kids%20With%20the%20Greatest%20Number%20of%20Candies/) | Easy |
 | 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
 | 1572 | [Matrix Diagonal Sum](./Array/Matrix%20Diagonal%20Sum/) | Easy |
