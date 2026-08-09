@@ -48,6 +48,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1920 | [Build Array from Permutation](./Array/Build%20Array%20from%20Permutation/) | Easy |
 | 2011 | [Final Value of Variable After Performing Operations](./Array/Final%20Value%20of%20Variable%20After%20Performing%20Operations/) | Easy |
 | 2418 | [Sort the People](./Array/Sort%20the%20People/) | Easy |
+| 2460 | [Apply Operations to an Array](./Array/Apply%20Operations%20to%20an%20Array/) | Easy |
 | 2942 | [Find Words Containing Character](./Array/Find%20Words%20Containing%20Character/) | Easy |
 
 </details>

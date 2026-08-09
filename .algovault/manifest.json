@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-09T07:13:15.951Z",
+  "lastUpdated": "2026-08-09T07:23:55.287Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1261,6 +1261,25 @@
           "runtime": "0 ms",
           "memory": "19.6 MB",
           "githubPath": "Two Pointers/Reverse Words in a String III/"
+        }
+      }
+    },
+    "apply-operations-to-an-array": {
+      "questionId": "2460",
+      "title": "Apply Operations to an Array",
+      "titleSlug": "apply-operations-to-an-array",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Two Pointers",
+        "Simulation"
+      ],
+      "solutions": {
+        "python3": {
+          "syncedAt": 1786260235287,
+          "runtime": "0 ms",
+          "memory": "19.6 MB",
+          "githubPath": "Array/Apply Operations to an Array/"
         }
       }
     }
