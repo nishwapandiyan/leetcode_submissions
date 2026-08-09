@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-09T07:23:55.287Z",
+  "lastUpdated": "2026-08-09T09:55:27.410Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1280,6 +1280,24 @@
           "runtime": "0 ms",
           "memory": "19.6 MB",
           "githubPath": "Array/Apply Operations to an Array/"
+        }
+      }
+    },
+    "reverse-linked-list": {
+      "questionId": "206",
+      "title": "Reverse Linked List",
+      "titleSlug": "reverse-linked-list",
+      "difficulty": "Easy",
+      "tags": [
+        "Linked List",
+        "Recursion"
+      ],
+      "solutions": {
+        "python3": {
+          "syncedAt": 1786269327410,
+          "runtime": "0 ms",
+          "memory": "20.5 MB",
+          "githubPath": "Linked List/Reverse Linked List/"
         }
       }
     }
