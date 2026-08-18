@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-09T10:10:25.329Z",
+  "lastUpdated": "2026-08-18T10:16:55.286Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1298,6 +1298,23 @@
           "runtime": "0 ms",
           "memory": "20.5 MB",
           "githubPath": "Linked List/Reverse Linked List/"
+        }
+      }
+    },
+    "word-search": {
+      "questionId": "",
+      "title": "Word Search",
+      "titleSlug": "word-search",
+      "difficulty": "Medium",
+      "tags": [
+        "General"
+      ],
+      "solutions": {
+        "12345678910111213141516class solution:    def exist(self, board: list[list[str]], word: str) -> bool:        row = len(board)        col = len(board[0])        def dfs(r,c,i):            if i == len(word):                return true            if (r < 0) or (c < 0) or  (r >= row) or (c >= col) or (board[r][c] != word[i]):                return false            temp = board[r][c]            board[r][c] = \"#\"            found = (dfs(r+1,c,i+1) or dfs(r-1,c,i+1) or dfs(r,c+1,i+1) or dfs(r,c-1,i+1))            board[r][c] = temp": {
+          "syncedAt": 1787048215286,
+          "runtime": "3423 ms",
+          "memory": "19.54 MB",
+          "githubPath": "General/Word Search/"
         }
       }
     }
