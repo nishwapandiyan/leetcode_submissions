@@ -18,139 +18,21 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
-| 18 | [4Sum](./Array/4Sum/) | Medium |
-| 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
-| 37 | [Sudoku Solver](./Array/Sudoku%20Solver/) | Hard |
-| 40 | [Combination Sum II](./Array/Combination%20Sum%20II/) | Medium |
-| 45 | [Jump Game II](./Array/Jump%20Game%20II/) | Medium |
-| 55 | [Jump Game](./Array/Jump%20Game/) | Medium |
-| 79 | [Word Search](./Array/Word%20Search/) | Medium |
-| 80 | [Remove Duplicates from Sorted Array II](./Array/Remove%20Duplicates%20from%20Sorted%20Array%20II/) | Medium |
-| 88 | [Merge Sorted Array](./Array/Merge%20Sorted%20Array/) | Easy |
-| 121 | [Best Time to Buy and Sell Stock](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy |
-| 130 | [Surrounded Regions](./Array/Surrounded%20Regions/) | Medium |
-| 164 | [Maximum Gap](./Array/Maximum%20Gap/) | Medium |
-| 169 | [Majority Element](./Array/Majority%20Element/) | Easy |
-| 179 | [Largest Number](./Array/Largest%20Number/) | Medium |
-| 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
-| 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
-| 324 | [Wiggle Sort II](./Array/Wiggle%20Sort%20II/) | Medium |
-| 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
-| 523 | [Continuous Subarray Sum](./Array/Continuous%20Subarray%20Sum/) | Medium |
-| 605 | [Can Place Flowers](./Array/Can%20Place%20Flowers/) | Easy |
-| 720 | [Longest Word in Dictionary](./Array/Longest%20Word%20in%20Dictionary/) | Medium |
-| 724 | [Find Pivot Index](./Array/Find%20Pivot%20Index/) | Easy |
-| 929 | [Unique Email Addresses](./Array/Unique%20Email%20Addresses/) | Easy |
-| 1002 | [Find Common Characters](./Array/Find%20Common%20Characters/) | Easy |
-| 1431 | [Kids With the Greatest Number of Candies](./Array/Kids%20With%20the%20Greatest%20Number%20of%20Candies/) | Easy |
-| 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
-| 1572 | [Matrix Diagonal Sum](./Array/Matrix%20Diagonal%20Sum/) | Easy |
-| 1920 | [Build Array from Permutation](./Array/Build%20Array%20from%20Permutation/) | Easy |
-| 2011 | [Final Value of Variable After Performing Operations](./Array/Final%20Value%20of%20Variable%20After%20Performing%20Operations/) | Easy |
-| 2418 | [Sort the People](./Array/Sort%20the%20People/) | Easy |
-| 2460 | [Apply Operations to an Array](./Array/Apply%20Operations%20to%20an%20Array/) | Easy |
-| 2942 | [Find Words Containing Character](./Array/Find%20Words%20Containing%20Character/) | Easy |
+| 303 | [Range Sum Query - Immutable](./Array/Range%20Sum%20Query%20-%20Immutable/) | Easy |
+| 350 | [Intersection of Two Arrays II](./Array/Intersection%20of%20Two%20Arrays%20II/) | Easy |
+| 455 | [Assign Cookies](./Array/Assign%20Cookies/) | Easy |
+| 877 | [Stone Game](./Array/Stone%20Game/) | Medium |
 
 </details>
 
 
-### Binary Search
+### Dynamic Programming
 <details>
-<summary>Click to expand Binary Search problems</summary>
+<summary>Click to expand Dynamic Programming problems</summary>
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 278 | [First Bad Version](./Binary%20Search/First%20Bad%20Version/) | Easy |
-
-</details>
-
-
-### Database
-<details>
-<summary>Click to expand Database problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 177 | [Nth Highest Salary](./Database/Nth%20Highest%20Salary/) | Medium |
-| 1527 | [Patients With a Condition](./Database/Patients%20With%20a%20Condition/) | Easy |
-| 1873 | [Calculate Special Bonus](./Database/Calculate%20Special%20Bonus/) | Easy |
-
-</details>
-
-
-### Hash Table
-<details>
-<summary>Click to expand Hash Table problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 13 | [Roman to Integer](./Hash%20Table/Roman%20to%20Integer/) | Easy |
-| 17 | [Letter Combinations of a Phone Number](./Hash%20Table/Letter%20Combinations%20of%20a%20Phone%20Number/) | Medium |
-| 160 | [Intersection of Two Linked Lists](./Hash%20Table/Intersection%20of%20Two%20Linked%20Lists/) | Easy |
-| 202 | [Happy Number](./Hash%20Table/Happy%20Number/) | Easy |
-| 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
-| 387 | [First Unique Character in a String](./Hash%20Table/First%20Unique%20Character%20in%20a%20String/) | Easy |
-| 771 | [Jewels and Stones](./Hash%20Table/Jewels%20and%20Stones/) | Easy |
-| 2283 | [Check if Number Has Equal Digit Count and Digit Value](./Hash%20Table/Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value/) | Easy |
-| 3146 | [Permutation Difference between Two Strings](./Hash%20Table/Permutation%20Difference%20between%20Two%20Strings/) | Easy |
-| 3442 | [Maximum Difference Between Even and Odd Frequency I](./Hash%20Table/Maximum%20Difference%20Between%20Even%20and%20Odd%20Frequency%20I/) | Easy |
-
-</details>
-
-
-### Linked List
-<details>
-<summary>Click to expand Linked List problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 86 | [Partition List](./Linked%20List/Partition%20List/) | Medium |
-| 116 | [Populating Next Right Pointers in Each Node](./Linked%20List/Populating%20Next%20Right%20Pointers%20in%20Each%20Node/) | Medium |
-| 206 | [Reverse Linked List](./Linked%20List/Reverse%20Linked%20List/) | Easy |
-
-</details>
-
-
-### Math
-<details>
-<summary>Click to expand Math problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 7 | [Reverse Integer](./Math/Reverse%20Integer/) | Medium |
-| 43 | [Multiply Strings](./Math/Multiply%20Strings/) | Medium |
-| 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
-| 415 | [Add Strings](./Math/Add%20Strings/) | Easy |
-
-</details>
-
-
-### Stack
-<details>
-<summary>Click to expand Stack problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 144 | [Binary Tree Preorder Traversal](./Stack/Binary%20Tree%20Preorder%20Traversal/) | Easy |
-
-</details>
-
-
-### String
-<details>
-<summary>Click to expand String problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
-| 71 | [Simplify Path](./String/Simplify%20Path/) | Medium |
-| 72 | [Edit Distance](./String/Edit%20Distance/) | Medium |
-| 91 | [Decode Ways](./String/Decode%20Ways/) | Medium |
-| 93 | [Restore IP Addresses](./String/Restore%20IP%20Addresses/) | Medium |
-| 97 | [Interleaving String](./String/Interleaving%20String/) | Medium |
-| 1678 | [Goal Parser Interpretation](./String/Goal%20Parser%20Interpretation/) | Easy |
-| 3110 | [Score of a String](./String/Score%20of%20a%20String/) | Easy |
+| 338 | [Counting Bits](./Dynamic%20Programming/Counting%20Bits/) | Easy |
 
 </details>
 
@@ -161,25 +43,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 100 | [Same Tree](./Tree/Same%20Tree/) | Easy |
-| 103 | [Binary Tree Zigzag Level Order Traversal](./Tree/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal/) | Medium |
-| 104 | [Maximum Depth of Binary Tree](./Tree/Maximum%20Depth%20of%20Binary%20Tree/) | Easy |
-| 112 | [Path Sum](./Tree/Path%20Sum/) | Easy |
-
-</details>
-
-
-### Two Pointers
-<details>
-<summary>Click to expand Two Pointers problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 5 | [Longest Palindromic Substring](./Two%20Pointers/Longest%20Palindromic%20Substring/) | Medium |
-| 28 | [Find the Index of the First Occurrence in a String](./Two%20Pointers/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/) | Easy |
-| 125 | [Valid Palindrome](./Two%20Pointers/Valid%20Palindrome/) | Easy |
-| 541 | [Reverse String II](./Two%20Pointers/Reverse%20String%20II/) | Easy |
-| 557 | [Reverse Words in a String III](./Two%20Pointers/Reverse%20Words%20in%20a%20String%20III/) | Easy |
+| 129 | [Sum Root to Leaf Numbers](./Tree/Sum%20Root%20to%20Leaf%20Numbers/) | Medium |
 
 </details>
 
