@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-18T10:59:31.471Z",
+  "lastUpdated": "2026-08-19T08:55:05.939Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1339,6 +1339,26 @@
           "runtime": "2 ms",
           "memory": "22.3 MB",
           "githubPath": "Tree/Maximum Depth of Binary Tree/"
+        }
+      }
+    },
+    "path-sum": {
+      "questionId": "112",
+      "title": "Path Sum",
+      "titleSlug": "path-sum",
+      "difficulty": "Easy",
+      "tags": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ],
+      "solutions": {
+        "python3": {
+          "syncedAt": 1787129705938,
+          "runtime": "0 ms",
+          "memory": "20 MB",
+          "githubPath": "Tree/Path Sum/"
         }
       }
     }
