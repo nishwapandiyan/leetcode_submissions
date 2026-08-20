@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-20T06:02:51.329Z",
+  "lastUpdated": "2026-08-20T06:04:24.142Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1402,6 +1402,12 @@
         "python3": {
           "syncedAt": 1787205771329,
           "runtime": "N/A",
+          "memory": "N/A",
+          "githubPath": "Math/Permutation Sequence/"
+        },
+        "1234567891011class solution:    def getpermutation(self, n: int, k: int) -> str:        res = \"\"        numbers = list(range(1,n+1))        k -= 1        while n > 0:            n -= 1            index,k = divmod(k,math.factorial(n))            res += str(numbers[index])            numbers.remove(numbers[index])        return res": {
+          "syncedAt": 1787205864142,
+          "runtime": "0 ms",
           "memory": "N/A",
           "githubPath": "Math/Permutation Sequence/"
         }
