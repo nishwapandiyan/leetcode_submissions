@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-19T08:55:05.939Z",
+  "lastUpdated": "2026-08-20T05:05:05.529Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1359,6 +1359,27 @@
           "runtime": "0 ms",
           "memory": "20 MB",
           "githubPath": "Tree/Path Sum/"
+        }
+      }
+    },
+    "binary-tree-maximum-path-sum": {
+      "questionId": "124",
+      "title": "Binary Tree Maximum Path Sum",
+      "titleSlug": "binary-tree-maximum-path-sum",
+      "difficulty": "Hard",
+      "tags": [
+        "Dynamic Programming",
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree",
+        "DP on Trees"
+      ],
+      "solutions": {
+        "python3": {
+          "syncedAt": 1787202305529,
+          "runtime": "4 ms",
+          "memory": "23.9 MB",
+          "githubPath": "Dynamic Programming/Binary Tree Maximum Path Sum/"
         }
       }
     }
