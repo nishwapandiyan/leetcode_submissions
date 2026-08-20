@@ -1,37 +1,50 @@
 # 149. Max Points on a Line
 
 [![LeetCode Link](https://img.shields.io/badge/LeetCode-Problem_Link-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/problems/max-points-on-a-line/)
-![Difficulty](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=flat-square)
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-eab308?style=flat-square)
 
 ## Problem Statement
 
-<p>Given an array of <code>points</code> where <code>points[i] = [x<sub>i</sub>, y<sub>i</sub>]</code> represents a point on the <strong>X-Y</strong> plane, return <em>the maximum number of points that lie on the same straight line</em>.</p>
+Given an array of points where points[i] = [xi, yi] represents a point on the X-Y plane, return the maximum number of points that lie on the same straight line.
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/02/25/plane1.jpg" style="width: 300px; height: 294px;" />
-<pre>
-<strong>Input:</strong> points = [[1,1],[2,2],[3,3]]
-<strong>Output:</strong> 3
-</pre>
+ 
+Example 1:
 
-<p><strong class="example">Example 2:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/02/25/plane2.jpg" style="width: 300px; height: 294px;" />
-<pre>
-<strong>Input:</strong> points = [[1,1],[3,2],[5,3],[4,1],[2,3],[1,4]]
-<strong>Output:</strong> 4
-</pre>
+Input: points = [[1,1],[2,2],[3,3]]
+Output: 3
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
 
-<ul>
-	<li><code>1 &lt;= points.length &lt;= 300</code></li>
-	<li><code>points[i].length == 2</code></li>
-	<li><code>-10<sup>4</sup> &lt;= x<sub>i</sub>, y<sub>i</sub> &lt;= 10<sup>4</sup></code></li>
-	<li>All the <code>points</code> are <strong>unique</strong>.</li>
-</ul>
+Example 2:
 
+Input: points = [[1,1],[3,2],[5,3],[4,1],[2,3],[1,4]]
+Output: 4
+
+
+ 
+Constraints:
+
+
+	1 <= points.length <= 300
+	points[i].length == 2
+	-104 <= xi, yi <= 104
+	All the points are unique.
+
+## Examples
+
+```
+Input: points = [[1,1],[2,2],[3,3]]
+Output: 3
+
+Input: points = [[1,1],[3,2],[5,3],[4,1],[2,3],[1,4]]
+Output: 4
+```
+
+## Constraints
+
+- 1 <= points.length <= 300
+- points[i].length == 2
+- -104 <= xi, yi <= 104
+- All the points are unique.
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
