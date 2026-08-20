@@ -1,17 +1,11 @@
-from math import factorial
-class Solution(object):
-    def getPermutation(self, n, k):
-        """
-        :type n: int
-        :type k: int
-        :rtype: str
-        """
-        res = []
+class Solution:
+    def getPermutation(self, n: int, k: int) -> str:
+        res = ""
+        numbers = list(range(1,n+1))
         k -= 1
-        nums = [str(i) for i in range(1,n+1)]
-        for i in range(n,0,-1):
-            fact = factorial(i-1)
-            index = k // fact
-            res.append(nums.pop(index))
-            k %= fact
-        return ''.join(res) 
+        while n > 0:
+            n -= 1
+            index,k = divmod(k,math.factorial(n))
+            res += str(numbers[index])
+            numbers.remove(numbers[index])
+        return res    
