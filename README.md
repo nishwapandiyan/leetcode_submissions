@@ -1,5 +1,3 @@
-# DSA
-
 <!-- ALGOVAULT:STATS:START -->
 # 🚀 Data Structures & Algorithms Master Repository
 
@@ -20,6 +18,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
 | 228 | [Summary Ranges](./Array/Summary%20Ranges/) | Easy |
+| 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
 | 239 | [Sliding Window Maximum](./Array/Sliding%20Window%20Maximum/) | Hard |
 | 347 | [Top K Frequent Elements](./Array/Top%20K%20Frequent%20Elements/) | Medium |
 | 1991 | [Find the Middle Index in Array](./Array/Find%20the%20Middle%20Index%20in%20Array/) | Easy |
