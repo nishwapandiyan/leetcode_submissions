@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-24T06:46:17.091Z",
+  "lastUpdated": "2026-08-24T08:11:49.780Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1483,6 +1483,25 @@
           "runtime": "1191 ms",
           "memory": "51.9 MB",
           "githubPath": "Array/Count of Smaller Numbers After Self/"
+        }
+      }
+    },
+    "search-in-a-binary-search-tree": {
+      "questionId": "700",
+      "title": "Search in a Binary Search Tree",
+      "titleSlug": "search-in-a-binary-search-tree",
+      "difficulty": "Easy",
+      "tags": [
+        "Tree",
+        "Binary Search Tree",
+        "Binary Tree"
+      ],
+      "solutions": {
+        "python3": {
+          "syncedAt": 1787559109780,
+          "runtime": "0 ms",
+          "memory": "20.8 MB",
+          "githubPath": "Tree/Search in a Binary Search Tree/"
         }
       }
     }
