@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-24T08:52:11.452Z",
+  "lastUpdated": "2026-08-24T09:47:18.956Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1542,6 +1542,28 @@
           "runtime": "0 ms",
           "memory": "19.2 MB",
           "githubPath": "Tree/Invert Binary Tree/"
+        }
+      }
+    },
+    "relative-sort-array": {
+      "questionId": "1122",
+      "title": "Relative Sort Array",
+      "titleSlug": "relative-sort-array",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Hash Table",
+        "Sorting",
+        "Counting Sort",
+        "Quicksort",
+        "Bubble Sort"
+      ],
+      "solutions": {
+        "python3": {
+          "syncedAt": 1787564838956,
+          "runtime": "0 ms",
+          "memory": "19.4 MB",
+          "githubPath": "Array/Relative Sort Array/"
         }
       }
     }
