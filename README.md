@@ -179,6 +179,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 103 | [Binary Tree Zigzag Level Order Traversal](./Tree/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal/) | Medium |
 | 104 | [Maximum Depth of Binary Tree](./Tree/Maximum%20Depth%20of%20Binary%20Tree/) | Easy |
 | 112 | [Path Sum](./Tree/Path%20Sum/) | Easy |
+| 226 | [Invert Binary Tree](./Tree/Invert%20Binary%20Tree/) | Easy |
 | 700 | [Search in a Binary Search Tree](./Tree/Search%20in%20a%20Binary%20Search%20Tree/) | Easy |
 
 </details>
