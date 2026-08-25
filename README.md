@@ -38,6 +38,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 315 | [Count of Smaller Numbers After Self](./Array/Count%20of%20Smaller%20Numbers%20After%20Self/) | Hard |
 | 324 | [Wiggle Sort II](./Array/Wiggle%20Sort%20II/) | Medium |
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
+| 491 | [Non-decreasing Subsequences](./Array/Non-decreasing%20Subsequences/) | Medium |
 | 523 | [Continuous Subarray Sum](./Array/Continuous%20Subarray%20Sum/) | Medium |
 | 605 | [Can Place Flowers](./Array/Can%20Place%20Flowers/) | Easy |
 | 667 | [Beautiful Arrangement II](./Array/Beautiful%20Arrangement%20II/) | Medium |

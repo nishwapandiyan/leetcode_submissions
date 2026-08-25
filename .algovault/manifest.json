@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-25T06:06:08.617Z",
+  "lastUpdated": "2026-08-25T06:49:45.445Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1624,6 +1624,26 @@
           "runtime": "0 ms",
           "memory": "20.26 MB",
           "githubPath": "Array/Previous Permutation With One Swap/"
+        }
+      }
+    },
+    "non-decreasing-subsequences": {
+      "questionId": "491",
+      "title": "Non-decreasing Subsequences",
+      "titleSlug": "non-decreasing-subsequences",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Hash Table",
+        "Backtracking",
+        "Bit Manipulation"
+      ],
+      "solutions": {
+        "python3": {
+          "syncedAt": 1787640585445,
+          "runtime": "24 ms",
+          "memory": "26.6 MB",
+          "githubPath": "Array/Non-decreasing Subsequences/"
         }
       }
     }
