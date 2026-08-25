@@ -46,6 +46,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 781 | [Rabbits in Forest](./Array/Rabbits%20in%20Forest/) | Medium |
 | 929 | [Unique Email Addresses](./Array/Unique%20Email%20Addresses/) | Easy |
 | 1002 | [Find Common Characters](./Array/Find%20Common%20Characters/) | Easy |
+| 1053 | [Previous Permutation With One Swap](./Array/Previous%20Permutation%20With%20One%20Swap/) | Medium |
 | 1122 | [Relative Sort Array](./Array/Relative%20Sort%20Array/) | Easy |
 | 1431 | [Kids With the Greatest Number of Candies](./Array/Kids%20With%20the%20Greatest%20Number%20of%20Candies/) | Easy |
 | 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
