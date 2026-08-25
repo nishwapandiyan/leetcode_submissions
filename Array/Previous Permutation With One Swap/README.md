@@ -5,43 +5,59 @@
 
 ## Problem Statement
 
-<p>Given an array of positive integers <code>arr</code> (not necessarily distinct), return <em>the </em><span data-keyword="lexicographically-smaller-array"><em>lexicographically</em></span><em> largest permutation that is smaller than</em> <code>arr</code>, that can be <strong>made with exactly one swap</strong>. If it cannot be done, then return the same array.</p>
+Given an array of positive integers arr (not necessarily distinct), return the lexicographically largest permutation that is smaller than arr, that can be made with exactly one swap. If it cannot be done, then return the same array.
 
-<p><strong>Note</strong> that a <em>swap</em> exchanges the positions of two numbers <code>arr[i]</code> and <code>arr[j]</code></p>
+Note that a swap exchanges the positions of two numbers arr[i] and arr[j]
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+ 
+Example 1:
 
-<pre>
-<strong>Input:</strong> arr = [3,2,1]
-<strong>Output:</strong> [3,1,2]
-<strong>Explanation:</strong> Swapping 2 and 1.
-</pre>
+Input: arr = [3,2,1]
+Output: [3,1,2]
+Explanation: Swapping 2 and 1.
 
-<p><strong class="example">Example 2:</strong></p>
 
-<pre>
-<strong>Input:</strong> arr = [1,1,5]
-<strong>Output:</strong> [1,1,5]
-<strong>Explanation:</strong> This is already the smallest permutation.
-</pre>
+Example 2:
 
-<p><strong class="example">Example 3:</strong></p>
+Input: arr = [1,1,5]
+Output: [1,1,5]
+Explanation: This is already the smallest permutation.
 
-<pre>
-<strong>Input:</strong> arr = [1,9,4,6,7]
-<strong>Output:</strong> [1,7,4,6,9]
-<strong>Explanation:</strong> Swapping 9 and 7.
-</pre>
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+Example 3:
 
-<ul>
-	<li><code>1 &lt;= arr.length &lt;= 10<sup>4</sup></code></li>
-	<li><code>1 &lt;= arr[i] &lt;= 10<sup>4</sup></code></li>
-</ul>
+Input: arr = [1,9,4,6,7]
+Output: [1,7,4,6,9]
+Explanation: Swapping 9 and 7.
 
+
+ 
+Constraints:
+
+
+	1 <= arr.length <= 104
+	1 <= arr[i] <= 104
+
+## Examples
+
+```
+Input: arr = [3,2,1]
+Output: [3,1,2]
+Explanation: Swapping 2 and 1.
+
+Input: arr = [1,1,5]
+Output: [1,1,5]
+Explanation: This is already the smallest permutation.
+
+Input: arr = [1,9,4,6,7]
+Output: [1,7,4,6,9]
+Explanation: Swapping 9 and 7.
+```
+
+## Constraints
+
+- 1 <= arr.length <= 104
+- 1 <= arr[i] <= 104
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*

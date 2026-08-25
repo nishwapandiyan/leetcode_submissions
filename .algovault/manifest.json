@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-25T05:59:46.299Z",
+  "lastUpdated": "2026-08-25T06:04:36.367Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1617,6 +1617,12 @@
           "syncedAt": 1787637586299,
           "runtime": "0 ms",
           "memory": "20.3 MB",
+          "githubPath": "Array/Previous Permutation With One Swap/"
+        },
+        "123456789101112131415class solution:    def prevpermopt1(self, arr: list[int]) -> list[int]:        n = len(arr)        i = n-2        while i >= 0 and arr[i] <= arr[i+1]:            i -= 1        if i < 0:         return arr        j = n-1        while arr[j] >= arr[i]:            j -= 1        while j > i+1 and arr[j] == arr[j-1]:            j -= 1        arr[i],arr[j] = arr[j],arr[i]        return arr": {
+          "syncedAt": 1787637876367,
+          "runtime": "0 ms",
+          "memory": "20.26 MB",
           "githubPath": "Array/Previous Permutation With One Swap/"
         }
       }
