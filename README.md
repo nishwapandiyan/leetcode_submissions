@@ -40,6 +40,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
 | 523 | [Continuous Subarray Sum](./Array/Continuous%20Subarray%20Sum/) | Medium |
 | 605 | [Can Place Flowers](./Array/Can%20Place%20Flowers/) | Easy |
+| 667 | [Beautiful Arrangement II](./Array/Beautiful%20Arrangement%20II/) | Medium |
 | 720 | [Longest Word in Dictionary](./Array/Longest%20Word%20in%20Dictionary/) | Medium |
 | 724 | [Find Pivot Index](./Array/Find%20Pivot%20Index/) | Easy |
 | 781 | [Rabbits in Forest](./Array/Rabbits%20in%20Forest/) | Medium |
