@@ -62,6 +62,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Backtracking
+<details>
+<summary>Click to expand Backtracking problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 77 | [Combinations](./Backtracking/Combinations/) | Medium |
+
+</details>
+
+
 ### Binary Search
 <details>
 <summary>Click to expand Binary Search problems</summary>

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-27T10:09:40.027Z",
+  "lastUpdated": "2026-08-27T10:16:31.204Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1681,6 +1681,23 @@
           "runtime": "0 ms",
           "memory": "19.5 MB",
           "githubPath": "Array/Search a 2D Matrix/"
+        }
+      }
+    },
+    "combinations": {
+      "questionId": "77",
+      "title": "Combinations",
+      "titleSlug": "combinations",
+      "difficulty": "Medium",
+      "tags": [
+        "Backtracking"
+      ],
+      "solutions": {
+        "python3": {
+          "syncedAt": 1787825791204,
+          "runtime": "10 ms",
+          "memory": "58.6 MB",
+          "githubPath": "Backtracking/Combinations/"
         }
       }
     }
