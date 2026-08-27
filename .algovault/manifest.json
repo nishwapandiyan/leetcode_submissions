@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-27T10:16:31.204Z",
+  "lastUpdated": "2026-08-27T10:18:18.747Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1694,9 +1694,9 @@
       ],
       "solutions": {
         "python3": {
-          "syncedAt": 1787825791204,
+          "syncedAt": 1787825898747,
           "runtime": "10 ms",
-          "memory": "58.6 MB",
+          "memory": "58.7 MB",
           "githubPath": "Backtracking/Combinations/"
         }
       }
