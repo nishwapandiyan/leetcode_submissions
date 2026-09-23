@@ -96,6 +96,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 196 | [Delete Duplicate Emails](./Database/Delete%20Duplicate%20Emails/) | Easy |
 | 197 | [Rising Temperature](./Database/Rising%20Temperature/) | Easy |
 | 511 | [Game Play Analysis I](./Database/Game%20Play%20Analysis%20I/) | Easy |
+| 570 | [Managers with at Least 5 Direct Reports](./Database/Managers%20with%20at%20Least%205%20Direct%20Reports/) | Medium |
 | 1527 | [Patients With a Condition](./Database/Patients%20With%20a%20Condition/) | Easy |
 | 1873 | [Calculate Special Bonus](./Database/Calculate%20Special%20Bonus/) | Easy |
 

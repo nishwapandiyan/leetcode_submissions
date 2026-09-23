@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-23T05:21:16.169Z",
+  "lastUpdated": "2026-09-23T05:34:12.061Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1783,6 +1783,23 @@
           "runtime": "462 ms",
           "memory": "0B",
           "githubPath": "Database/Game Play Analysis I/"
+        }
+      }
+    },
+    "managers-with-at-least-5-direct-reports": {
+      "questionId": "570",
+      "title": "Managers with at Least 5 Direct Reports",
+      "titleSlug": "managers-with-at-least-5-direct-reports",
+      "difficulty": "Medium",
+      "tags": [
+        "Database"
+      ],
+      "solutions": {
+        "mysql": {
+          "syncedAt": 1790141652061,
+          "runtime": "391 ms",
+          "memory": "0B",
+          "githubPath": "Database/Managers with at Least 5 Direct Reports/"
         }
       }
     }
