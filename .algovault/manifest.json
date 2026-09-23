@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-23T05:01:44.092Z",
+  "lastUpdated": "2026-09-23T05:08:02.528Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1732,6 +1732,23 @@
           "runtime": "556 ms",
           "memory": "0B",
           "githubPath": "Database/Consecutive Numbers/"
+        }
+      }
+    },
+    "delete-duplicate-emails": {
+      "questionId": "196",
+      "title": "Delete Duplicate Emails",
+      "titleSlug": "delete-duplicate-emails",
+      "difficulty": "Easy",
+      "tags": [
+        "Database"
+      ],
+      "solutions": {
+        "mysql": {
+          "syncedAt": 1790140082528,
+          "runtime": "877 ms",
+          "memory": "0B",
+          "githubPath": "Database/Delete Duplicate Emails/"
         }
       }
     }
