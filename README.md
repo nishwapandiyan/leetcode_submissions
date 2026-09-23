@@ -92,6 +92,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 177 | [Nth Highest Salary](./Database/Nth%20Highest%20Salary/) | Medium |
 | 178 | [Rank Scores](./Database/Rank%20Scores/) | Medium |
+| 180 | [Consecutive Numbers](./Database/Consecutive%20Numbers/) | Medium |
 | 1527 | [Patients With a Condition](./Database/Patients%20With%20a%20Condition/) | Easy |
 | 1873 | [Calculate Special Bonus](./Database/Calculate%20Special%20Bonus/) | Easy |
 
