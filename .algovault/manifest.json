@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-23T05:08:02.528Z",
+  "lastUpdated": "2026-09-23T05:15:26.915Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1749,6 +1749,23 @@
           "runtime": "877 ms",
           "memory": "0B",
           "githubPath": "Database/Delete Duplicate Emails/"
+        }
+      }
+    },
+    "rising-temperature": {
+      "questionId": "197",
+      "title": "Rising Temperature",
+      "titleSlug": "rising-temperature",
+      "difficulty": "Easy",
+      "tags": [
+        "Database"
+      ],
+      "solutions": {
+        "mysql": {
+          "syncedAt": 1790140526915,
+          "runtime": "598 ms",
+          "memory": "0B",
+          "githubPath": "Database/Rising Temperature/"
         }
       }
     }
