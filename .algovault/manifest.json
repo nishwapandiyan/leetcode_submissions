@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-23T05:15:26.915Z",
+  "lastUpdated": "2026-09-23T05:21:16.169Z",
   "submissions": {
     "nth-highest-salary": {
       "questionId": "177",
@@ -1766,6 +1766,23 @@
           "runtime": "598 ms",
           "memory": "0B",
           "githubPath": "Database/Rising Temperature/"
+        }
+      }
+    },
+    "game-play-analysis-i": {
+      "questionId": "511",
+      "title": "Game Play Analysis I",
+      "titleSlug": "game-play-analysis-i",
+      "difficulty": "Easy",
+      "tags": [
+        "Database"
+      ],
+      "solutions": {
+        "mysql": {
+          "syncedAt": 1790140876169,
+          "runtime": "462 ms",
+          "memory": "0B",
+          "githubPath": "Database/Game Play Analysis I/"
         }
       }
     }
